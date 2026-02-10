@@ -82,7 +82,7 @@ def main():
 def write_json(fname, data, label):
     """JSON 파일 저장"""
     categories = build_categories(data)
-    result = {"version": "0.5", "data": data, "categories": categories}
+    result = {"version": "0.7", "data": data, "categories": categories}
     with open(fname, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     print(f"{fname} 생성 완료: {label} {len(data)}자")

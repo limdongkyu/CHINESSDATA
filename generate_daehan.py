@@ -268,7 +268,7 @@ def main():
                 strokes = STROKES.get(char, 10)
                 data.append(make_entry(char, meaning, sound, strokes))
         categories = build_categories(data)
-        result = {"version": "0.5", "data": data, "categories": categories}
+        result = {"version": "0.7", "data": data, "categories": categories}
         with open(fname, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
         print(f"{fname} 생성 완료: {label} {len(data)}자")

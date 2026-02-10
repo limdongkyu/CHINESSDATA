@@ -215,7 +215,7 @@ def main():
         }
         data.append(entry)
     categories = build_categories(data)
-    result = {"version": "0.5", "data": data, "categories": categories}
+    result = {"version": "0.7", "data": data, "categories": categories}
     with open("default6.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     print(f"default6.json 생성 완료: {len(data)}자")

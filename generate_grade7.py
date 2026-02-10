@@ -227,7 +227,7 @@ def main():
     categories = build_categories(data)
     
     result = {
-        "version": "0.5",
+        "version": "0.7",
         "data": data,
         "categories": categories
     }
