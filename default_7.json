@@ -1,0 +1,5121 @@
+{
+  "version": "0.6",
+  "data": [
+    {
+      "character": "校",
+      "meaning": "학교",
+      "sound": "교",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "學校",
+          "reading": "학교",
+          "meaning": "배우는 곳"
+        },
+        {
+          "hanja": "校舍",
+          "reading": "교사",
+          "meaning": "학교 건물"
+        },
+        {
+          "hanja": "校歌",
+          "reading": "교가",
+          "meaning": "학교의 노래"
+        },
+        {
+          "hanja": "母校",
+          "reading": "모교",
+          "meaning": "배운 학교"
+        },
+        {
+          "hanja": "全校",
+          "reading": "전교",
+          "meaning": "학교 전체"
+        }
+      ]
+    },
+    {
+      "character": "敎",
+      "meaning": "가르칠",
+      "sound": "교",
+      "strokeCount": 11,
+      "words": [
+        {
+          "hanja": "教育",
+          "reading": "교육",
+          "meaning": "가르쳐 기름"
+        },
+        {
+          "hanja": "敎室",
+          "reading": "교실",
+          "meaning": "가르치는 방"
+        },
+        {
+          "hanja": "敎師",
+          "reading": "교사",
+          "meaning": "가르치는 사람"
+        },
+        {
+          "hanja": "宗教",
+          "reading": "종교",
+          "meaning": "마음을 모음"
+        },
+        {
+          "hanja": "敎科",
+          "reading": "교과",
+          "meaning": "가르치는 과목"
+        }
+      ]
+    },
+    {
+      "character": "九",
+      "meaning": "아홉",
+      "sound": "구",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "九州",
+          "reading": "구주",
+          "meaning": "아홉 나라"
+        },
+        {
+          "hanja": "九月",
+          "reading": "구월",
+          "meaning": "아홉째 달"
+        },
+        {
+          "hanja": "十九",
+          "reading": "십구",
+          "meaning": "열아홉"
+        },
+        {
+          "hanja": "九十",
+          "reading": "구십",
+          "meaning": "아흔"
+        },
+        {
+          "hanja": "九死",
+          "reading": "구사",
+          "meaning": "아홉 번 죽음"
+        }
+      ]
+    },
+    {
+      "character": "國",
+      "meaning": "나라",
+      "sound": "국",
+      "strokeCount": 11,
+      "words": [
+        {
+          "hanja": "國家",
+          "reading": "국가",
+          "meaning": "나라"
+        },
+        {
+          "hanja": "韓國",
+          "reading": "한국",
+          "meaning": "한나라"
+        },
+        {
+          "hanja": "國歌",
+          "reading": "국가",
+          "meaning": "나라의 노래"
+        },
+        {
+          "hanja": "外國",
+          "reading": "외국",
+          "meaning": "밖의 나라"
+        },
+        {
+          "hanja": "國土",
+          "reading": "국토",
+          "meaning": "나라의 땅"
+        }
+      ]
+    },
+    {
+      "character": "軍",
+      "meaning": "군사",
+      "sound": "군",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "軍隊",
+          "reading": "군대",
+          "meaning": "군사의 무리"
+        },
+        {
+          "hanja": "軍人",
+          "reading": "군인",
+          "meaning": "군사 되는 사람"
+        },
+        {
+          "hanja": "海軍",
+          "reading": "해군",
+          "meaning": "바다의 군사"
+        },
+        {
+          "hanja": "空軍",
+          "reading": "공군",
+          "meaning": "하늘의 군사"
+        },
+        {
+          "hanja": "將軍",
+          "reading": "장군",
+          "meaning": "군사의 우두머리"
+        }
+      ]
+    },
+    {
+      "character": "金",
+      "meaning": "쇠",
+      "sound": "금",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "金銭",
+          "reading": "금전",
+          "meaning": "쇠돈"
+        },
+        {
+          "hanja": "金曜日",
+          "reading": "금요일",
+          "meaning": "금요일"
+        },
+        {
+          "hanja": "黃金",
+          "reading": "황금",
+          "meaning": "노란 쇠"
+        },
+        {
+          "hanja": "金物",
+          "reading": "금물",
+          "meaning": "쇠로 만든 물건"
+        },
+        {
+          "hanja": "年金",
+          "reading": "연금",
+          "meaning": "해마다 주는 돈"
+        }
+      ]
+    },
+    {
+      "character": "南",
+      "meaning": "남",
+      "sound": "남",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "南北",
+          "reading": "남북",
+          "meaning": "남과 북"
+        },
+        {
+          "hanja": "南門",
+          "reading": "남문",
+          "meaning": "남쪽 문"
+        },
+        {
+          "hanja": "江南",
+          "reading": "강남",
+          "meaning": "강 남쪽"
+        },
+        {
+          "hanja": "南韓",
+          "reading": "남한",
+          "meaning": "남쪽 한국"
+        },
+        {
+          "hanja": "南風",
+          "reading": "남풍",
+          "meaning": "남쪽 바람"
+        }
+      ]
+    },
+    {
+      "character": "女",
+      "meaning": "계집",
+      "sound": "녀",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "女子",
+          "reading": "여자",
+          "meaning": "계집아이"
+        },
+        {
+          "hanja": "男女",
+          "reading": "남녀",
+          "meaning": "남자와 여자"
+        },
+        {
+          "hanja": "少女",
+          "reading": "소녀",
+          "meaning": "어린 여자"
+        },
+        {
+          "hanja": "女學生",
+          "reading": "여학생",
+          "meaning": "여자 학생"
+        },
+        {
+          "hanja": "母女",
+          "reading": "모녀",
+          "meaning": "어머니와 딸"
+        }
+      ]
+    },
+    {
+      "character": "年",
+      "meaning": "해",
+      "sound": "년",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "一年",
+          "reading": "일년",
+          "meaning": "한 해"
+        },
+        {
+          "hanja": "新年",
+          "reading": "신년",
+          "meaning": "새 해"
+        },
+        {
+          "hanja": "每年",
+          "reading": "매년",
+          "meaning": "해마다"
+        },
+        {
+          "hanja": "青年",
+          "reading": "청년",
+          "meaning": "푸른 나이"
+        },
+        {
+          "hanja": "年間",
+          "reading": "연간",
+          "meaning": "한 해 동안"
+        }
+      ]
+    },
+    {
+      "character": "大",
+      "meaning": "큰",
+      "sound": "대",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "大小",
+          "reading": "대소",
+          "meaning": "큰 것과 작은 것"
+        },
+        {
+          "hanja": "大學",
+          "reading": "대학",
+          "meaning": "큰 배움"
+        },
+        {
+          "hanja": "大統領",
+          "reading": "대통령",
+          "meaning": "나라의 으뜸"
+        },
+        {
+          "hanja": "大王",
+          "reading": "대왕",
+          "meaning": "큰 임금"
+        },
+        {
+          "hanja": "大海",
+          "reading": "대해",
+          "meaning": "큰 바다"
+        }
+      ]
+    },
+    {
+      "character": "東",
+      "meaning": "동",
+      "sound": "동",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "東北",
+          "reading": "동북",
+          "meaning": "동과 북"
+        },
+        {
+          "hanja": "東方",
+          "reading": "동방",
+          "meaning": "동쪽"
+        },
+        {
+          "hanja": "東京",
+          "reading": "동경",
+          "meaning": "동쪽 서울"
+        },
+        {
+          "hanja": "東門",
+          "reading": "동문",
+          "meaning": "동쪽 문"
+        },
+        {
+          "hanja": "東海",
+          "reading": "동해",
+          "meaning": "동쪽 바다"
+        }
+      ]
+    },
+    {
+      "character": "六",
+      "meaning": "여섯",
+      "sound": "육",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "六月",
+          "reading": "육월",
+          "meaning": "여섯째 달"
+        },
+        {
+          "hanja": "十六",
+          "reading": "십육",
+          "meaning": "열여섯"
+        },
+        {
+          "hanja": "六十",
+          "reading": "육십",
+          "meaning": "예순"
+        },
+        {
+          "hanja": "六日",
+          "reading": "육일",
+          "meaning": "엿새"
+        },
+        {
+          "hanja": "六本",
+          "reading": "육본",
+          "meaning": "여섯 개"
+        }
+      ]
+    },
+    {
+      "character": "萬",
+      "meaning": "일만",
+      "sound": "만",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "萬一",
+          "reading": "만일",
+          "meaning": "만에 하나"
+        },
+        {
+          "hanja": "萬年",
+          "reading": "만년",
+          "meaning": "만 해"
+        },
+        {
+          "hanja": "萬里",
+          "reading": "만리",
+          "meaning": "만 리"
+        },
+        {
+          "hanja": "千萬",
+          "reading": "천만",
+          "meaning": "천과 만"
+        },
+        {
+          "hanja": "萬國",
+          "reading": "만국",
+          "meaning": "모든 나라"
+        }
+      ]
+    },
+    {
+      "character": "母",
+      "meaning": "어미",
+      "sound": "모",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "父母",
+          "reading": "부모",
+          "meaning": "아버지와 어머니"
+        },
+        {
+          "hanja": "母國",
+          "reading": "모국",
+          "meaning": "어머니 나라"
+        },
+        {
+          "hanja": "母子",
+          "reading": "모자",
+          "meaning": "어머니와 아들"
+        },
+        {
+          "hanja": "祖母",
+          "reading": "조모",
+          "meaning": "할머니"
+        },
+        {
+          "hanja": "母親",
+          "reading": "모친",
+          "meaning": "어머니"
+        }
+      ]
+    },
+    {
+      "character": "木",
+      "meaning": "나무",
+      "sound": "목",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "木工",
+          "reading": "목공",
+          "meaning": "나무 일"
+        },
+        {
+          "hanja": "木材",
+          "reading": "목재",
+          "meaning": "나무 재료"
+        },
+        {
+          "hanja": "草木",
+          "reading": "초목",
+          "meaning": "풀과 나무"
+        },
+        {
+          "hanja": "木馬",
+          "reading": "목마",
+          "meaning": "나무 말"
+        },
+        {
+          "hanja": "木版",
+          "reading": "목판",
+          "meaning": "나무 판"
+        }
+      ]
+    },
+    {
+      "character": "門",
+      "meaning": "문",
+      "sound": "문",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "門戶",
+          "reading": "문호",
+          "meaning": "문"
+        },
+        {
+          "hanja": "正門",
+          "reading": "정문",
+          "meaning": "바른 문"
+        },
+        {
+          "hanja": "門前",
+          "reading": "문전",
+          "meaning": "문 앞"
+        },
+        {
+          "hanja": "校門",
+          "reading": "교문",
+          "meaning": "학교 문"
+        },
+        {
+          "hanja": "開門",
+          "reading": "개문",
+          "meaning": "문을 열다"
+        }
+      ]
+    },
+    {
+      "character": "民",
+      "meaning": "백성",
+      "sound": "민",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "國民",
+          "reading": "국민",
+          "meaning": "나라의 백성"
+        },
+        {
+          "hanja": "市民",
+          "reading": "시민",
+          "meaning": "도시의 백성"
+        },
+        {
+          "hanja": "民主",
+          "reading": "민주",
+          "meaning": "백성이 주인"
+        },
+        {
+          "hanja": "農民",
+          "reading": "농민",
+          "meaning": "농사 짓는 백성"
+        },
+        {
+          "hanja": "人民",
+          "reading": "인민",
+          "meaning": "사람들"
+        }
+      ]
+    },
+    {
+      "character": "白",
+      "meaning": "흰",
+      "sound": "백",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "白色",
+          "reading": "백색",
+          "meaning": "흰색"
+        },
+        {
+          "hanja": "白紙",
+          "reading": "백지",
+          "meaning": "흰 종이"
+        },
+        {
+          "hanja": "白衣",
+          "reading": "백의",
+          "meaning": "흰 옷"
+        },
+        {
+          "hanja": "白髮",
+          "reading": "백발",
+          "meaning": "흰 머리카락"
+        },
+        {
+          "hanja": "明白",
+          "reading": "명백",
+          "meaning": "밝고 희다"
+        }
+      ]
+    },
+    {
+      "character": "父",
+      "meaning": "아비",
+      "sound": "부",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "父母",
+          "reading": "부모",
+          "meaning": "아버지와 어머니"
+        },
+        {
+          "hanja": "父親",
+          "reading": "부친",
+          "meaning": "아버지"
+        },
+        {
+          "hanja": "祖父",
+          "reading": "조부",
+          "meaning": "할아버지"
+        },
+        {
+          "hanja": "父兄",
+          "reading": "부형",
+          "meaning": "아버지와 형"
+        },
+        {
+          "hanja": "父子",
+          "reading": "부자",
+          "meaning": "아버지와 아들"
+        }
+      ]
+    },
+    {
+      "character": "北",
+      "meaning": "북",
+      "sound": "북",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "北門",
+          "reading": "북문",
+          "meaning": "북쪽 문"
+        },
+        {
+          "hanja": "南北",
+          "reading": "남북",
+          "meaning": "남과 북"
+        },
+        {
+          "hanja": "北韓",
+          "reading": "북한",
+          "meaning": "북쪽 한국"
+        },
+        {
+          "hanja": "河北",
+          "reading": "하북",
+          "meaning": "강 북쪽"
+        },
+        {
+          "hanja": "北風",
+          "reading": "북풍",
+          "meaning": "북쪽 바람"
+        }
+      ]
+    },
+    {
+      "character": "四",
+      "meaning": "넉",
+      "sound": "사",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "四月",
+          "reading": "사월",
+          "meaning": "넷째 달"
+        },
+        {
+          "hanja": "十四",
+          "reading": "십사",
+          "meaning": "열넷"
+        },
+        {
+          "hanja": "四方",
+          "reading": "사방",
+          "meaning": "네 방향"
+        },
+        {
+          "hanja": "四時",
+          "reading": "사시",
+          "meaning": "네 계절"
+        },
+        {
+          "hanja": "四日",
+          "reading": "사일",
+          "meaning": "나흘"
+        }
+      ]
+    },
+    {
+      "character": "山",
+      "meaning": "뫼",
+      "sound": "산",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "山水",
+          "reading": "산수",
+          "meaning": "산과 물"
+        },
+        {
+          "hanja": "山道",
+          "reading": "산도",
+          "meaning": "산길"
+        },
+        {
+          "hanja": "火山",
+          "reading": "화산",
+          "meaning": "불 산"
+        },
+        {
+          "hanja": "高山",
+          "reading": "고산",
+          "meaning": "높은 산"
+        },
+        {
+          "hanja": "山頂",
+          "reading": "산정",
+          "meaning": "산 꼭대기"
+        }
+      ]
+    },
+    {
+      "character": "三",
+      "meaning": "석",
+      "sound": "삼",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "三月",
+          "reading": "삼월",
+          "meaning": "셋째 달"
+        },
+        {
+          "hanja": "三十",
+          "reading": "삼십",
+          "meaning": "서른"
+        },
+        {
+          "hanja": "三時",
+          "reading": "삼시",
+          "meaning": "세 시"
+        },
+        {
+          "hanja": "三日",
+          "reading": "삼일",
+          "meaning": "사흘"
+        },
+        {
+          "hanja": "三角",
+          "reading": "삼각",
+          "meaning": "세 모"
+        }
+      ]
+    },
+    {
+      "character": "生",
+      "meaning": "날",
+      "sound": "생",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "生命",
+          "reading": "생명",
+          "meaning": "살아 있는 목숨"
+        },
+        {
+          "hanja": "生活",
+          "reading": "생활",
+          "meaning": "살아감"
+        },
+        {
+          "hanja": "學生",
+          "reading": "학생",
+          "meaning": "배우는 사람"
+        },
+        {
+          "hanja": "人生",
+          "reading": "인생",
+          "meaning": "사람의 삶"
+        },
+        {
+          "hanja": "生日",
+          "reading": "생일",
+          "meaning": "태어난 날"
+        }
+      ]
+    },
+    {
+      "character": "西",
+      "meaning": "서",
+      "sound": "서",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "西方",
+          "reading": "서방",
+          "meaning": "서쪽"
+        },
+        {
+          "hanja": "西南",
+          "reading": "서남",
+          "meaning": "서와 남"
+        },
+        {
+          "hanja": "西洋",
+          "reading": "서양",
+          "meaning": "서쪽 바다"
+        },
+        {
+          "hanja": "西門",
+          "reading": "서문",
+          "meaning": "서쪽 문"
+        },
+        {
+          "hanja": "西北",
+          "reading": "서북",
+          "meaning": "서와 북"
+        }
+      ]
+    },
+    {
+      "character": "先",
+      "meaning": "먼저",
+      "sound": "선",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "先生",
+          "reading": "선생",
+          "meaning": "먼저 난 사람"
+        },
+        {
+          "hanja": "先輩",
+          "reading": "선배",
+          "meaning": "먼저 배운 사람"
+        },
+        {
+          "hanja": "先前",
+          "reading": "선전",
+          "meaning": "먼저 앞"
+        },
+        {
+          "hanja": "先端",
+          "reading": "선단",
+          "meaning": "맨 앞"
+        },
+        {
+          "hanja": "先日",
+          "reading": "선일",
+          "meaning": "며칠 전"
+        }
+      ]
+    },
+    {
+      "character": "小",
+      "meaning": "작을",
+      "sound": "소",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "大小",
+          "reading": "대소",
+          "meaning": "큰 것과 작은 것"
+        },
+        {
+          "hanja": "小學",
+          "reading": "초학",
+          "meaning": "작은 배움"
+        },
+        {
+          "hanja": "少女",
+          "reading": "소녀",
+          "meaning": "어린 여자"
+        },
+        {
+          "hanja": "小人",
+          "reading": "소인",
+          "meaning": "작은 사람"
+        },
+        {
+          "hanja": "小說",
+          "reading": "소설",
+          "meaning": "작은 이야기"
+        }
+      ]
+    },
+    {
+      "character": "水",
+      "meaning": "물",
+      "sound": "수",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "水道",
+          "reading": "수도",
+          "meaning": "물길"
+        },
+        {
+          "hanja": "水魚",
+          "reading": "수어",
+          "meaning": "물고기"
+        },
+        {
+          "hanja": "水泳",
+          "reading": "수영",
+          "meaning": "물에서 헤엄침"
+        },
+        {
+          "hanja": "飲水",
+          "reading": "음수",
+          "meaning": "물 마심"
+        },
+        {
+          "hanja": "水平",
+          "reading": "수평",
+          "meaning": "물결처럼 평평함"
+        }
+      ]
+    },
+    {
+      "character": "室",
+      "meaning": "집",
+      "sound": "실",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "敎室",
+          "reading": "교실",
+          "meaning": "가르치는 방"
+        },
+        {
+          "hanja": "室內",
+          "reading": "실내",
+          "meaning": "방 안"
+        },
+        {
+          "hanja": "室長",
+          "reading": "실장",
+          "meaning": "방의 으뜸"
+        },
+        {
+          "hanja": "寢室",
+          "reading": "침실",
+          "meaning": "잠자는 방"
+        },
+        {
+          "hanja": "會室",
+          "reading": "회실",
+          "meaning": "모이는 방"
+        }
+      ]
+    },
+    {
+      "character": "十",
+      "meaning": "열",
+      "sound": "십",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "十月",
+          "reading": "십월",
+          "meaning": "열째 달"
+        },
+        {
+          "hanja": "十人",
+          "reading": "십인",
+          "meaning": "열 사람"
+        },
+        {
+          "hanja": "十日",
+          "reading": "십일",
+          "meaning": "열흘"
+        },
+        {
+          "hanja": "十本",
+          "reading": "십본",
+          "meaning": "열 개"
+        },
+        {
+          "hanja": "十分",
+          "reading": "십분",
+          "meaning": "충분함"
+        }
+      ]
+    },
+    {
+      "character": "五",
+      "meaning": "다섯",
+      "sound": "오",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "五月",
+          "reading": "오월",
+          "meaning": "다섯째 달"
+        },
+        {
+          "hanja": "十五",
+          "reading": "십오",
+          "meaning": "열다섯"
+        },
+        {
+          "hanja": "五十",
+          "reading": "오십",
+          "meaning": "쉰"
+        },
+        {
+          "hanja": "五日",
+          "reading": "오일",
+          "meaning": "닷새"
+        },
+        {
+          "hanja": "五分",
+          "reading": "오분",
+          "meaning": "다섯 부분"
+        }
+      ]
+    },
+    {
+      "character": "王",
+      "meaning": "임금",
+      "sound": "왕",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "大王",
+          "reading": "대왕",
+          "meaning": "큰 임금"
+        },
+        {
+          "hanja": "王子",
+          "reading": "왕자",
+          "meaning": "임금의 아들"
+        },
+        {
+          "hanja": "王宮",
+          "reading": "왕궁",
+          "meaning": "임금의 집"
+        },
+        {
+          "hanja": "國王",
+          "reading": "국왕",
+          "meaning": "나라의 임금"
+        },
+        {
+          "hanja": "女王",
+          "reading": "여왕",
+          "meaning": "여자 임금"
+        }
+      ]
+    },
+    {
+      "character": "外",
+      "meaning": "바깥",
+      "sound": "외",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "外國",
+          "reading": "외국",
+          "meaning": "밖의 나라"
+        },
+        {
+          "hanja": "室外",
+          "reading": "실외",
+          "meaning": "방 밖"
+        },
+        {
+          "hanja": "門外",
+          "reading": "문외",
+          "meaning": "문 밖"
+        },
+        {
+          "hanja": "外食",
+          "reading": "외식",
+          "meaning": "밖에서 먹음"
+        },
+        {
+          "hanja": "海外",
+          "reading": "해외",
+          "meaning": "바다 밖"
+        }
+      ]
+    },
+    {
+      "character": "月",
+      "meaning": "달",
+      "sound": "월",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "日月",
+          "reading": "일월",
+          "meaning": "해와 달"
+        },
+        {
+          "hanja": "月曜日",
+          "reading": "월요일",
+          "meaning": "월요일"
+        },
+        {
+          "hanja": "正月",
+          "reading": "정월",
+          "meaning": "바른 달"
+        },
+        {
+          "hanja": "每月",
+          "reading": "매월",
+          "meaning": "매달"
+        },
+        {
+          "hanja": "月給",
+          "reading": "월급",
+          "meaning": "달마다 받는 돈"
+        }
+      ]
+    },
+    {
+      "character": "二",
+      "meaning": "두",
+      "sound": "이",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "二月",
+          "reading": "이월",
+          "meaning": "두째 달"
+        },
+        {
+          "hanja": "十二",
+          "reading": "십이",
+          "meaning": "열둘"
+        },
+        {
+          "hanja": "二十",
+          "reading": "이십",
+          "meaning": "스물"
+        },
+        {
+          "hanja": "二人",
+          "reading": "이인",
+          "meaning": "두 사람"
+        },
+        {
+          "hanja": "二日",
+          "reading": "이일",
+          "meaning": "이틀"
+        }
+      ]
+    },
+    {
+      "character": "人",
+      "meaning": "사람",
+      "sound": "인",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "人間",
+          "reading": "인간",
+          "meaning": "사람 사이"
+        },
+        {
+          "hanja": "人口",
+          "reading": "인구",
+          "meaning": "사람의 수"
+        },
+        {
+          "hanja": "個人",
+          "reading": "개인",
+          "meaning": "한 사람"
+        },
+        {
+          "hanja": "人民",
+          "reading": "인민",
+          "meaning": "사람들"
+        },
+        {
+          "hanja": "人生",
+          "reading": "인생",
+          "meaning": "사람의 삶"
+        }
+      ]
+    },
+    {
+      "character": "一",
+      "meaning": "한",
+      "sound": "일",
+      "strokeCount": 1,
+      "words": [
+        {
+          "hanja": "一人",
+          "reading": "일인",
+          "meaning": "한 사람"
+        },
+        {
+          "hanja": "一日",
+          "reading": "일일",
+          "meaning": "하루"
+        },
+        {
+          "hanja": "一心",
+          "reading": "일심",
+          "meaning": "한 마음"
+        },
+        {
+          "hanja": "一等",
+          "reading": "일등",
+          "meaning": "첫째 등"
+        },
+        {
+          "hanja": "一學期",
+          "reading": "일학기",
+          "meaning": "한 학기"
+        }
+      ]
+    },
+    {
+      "character": "日",
+      "meaning": "날",
+      "sound": "일",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "每日",
+          "reading": "매일",
+          "meaning": "매일"
+        },
+        {
+          "hanja": "日本",
+          "reading": "일본",
+          "meaning": "해의 근본"
+        },
+        {
+          "hanja": "日光",
+          "reading": "일광",
+          "meaning": "해의 빛"
+        },
+        {
+          "hanja": "假日",
+          "reading": "가일",
+          "meaning": "쉬는 날"
+        },
+        {
+          "hanja": "生日",
+          "reading": "생일",
+          "meaning": "태어난 날"
+        }
+      ]
+    },
+    {
+      "character": "長",
+      "meaning": "긴",
+      "sound": "장",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "成長",
+          "reading": "성장",
+          "meaning": "자라서 이룸"
+        },
+        {
+          "hanja": "校長",
+          "reading": "교장",
+          "meaning": "학교의 으뜸"
+        },
+        {
+          "hanja": "長所",
+          "reading": "장소",
+          "meaning": "긴 곳"
+        },
+        {
+          "hanja": "長短",
+          "reading": "장단",
+          "meaning": "길고 짧음"
+        },
+        {
+          "hanja": "長男",
+          "reading": "장남",
+          "meaning": "첫째 아들"
+        }
+      ]
+    },
+    {
+      "character": "弟",
+      "meaning": "아우",
+      "sound": "제",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "兄弟",
+          "reading": "형제",
+          "meaning": "형과 아우"
+        },
+        {
+          "hanja": "弟子",
+          "reading": "제자",
+          "meaning": "아우 같은 사람"
+        },
+        {
+          "hanja": "弟妹",
+          "reading": "제매",
+          "meaning": "아우와 누이"
+        },
+        {
+          "hanja": "師弟",
+          "reading": "사제",
+          "meaning": "스승과 제자"
+        },
+        {
+          "hanja": "男弟",
+          "reading": "남제",
+          "meaning": "남자 아우"
+        }
+      ]
+    },
+    {
+      "character": "中",
+      "meaning": "가운데",
+      "sound": "중",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "中心",
+          "reading": "중심",
+          "meaning": "가운데 마음"
+        },
+        {
+          "hanja": "中學",
+          "reading": "중학",
+          "meaning": "가운데 배움"
+        },
+        {
+          "hanja": "國中",
+          "reading": "국중",
+          "meaning": "나라 안"
+        },
+        {
+          "hanja": "途中",
+          "reading": "도중",
+          "meaning": "길 가운데"
+        },
+        {
+          "hanja": "年中",
+          "reading": "년중",
+          "meaning": "한 해 동안"
+        }
+      ]
+    },
+    {
+      "character": "靑",
+      "meaning": "푸를",
+      "sound": "청",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "靑年",
+          "reading": "청년",
+          "meaning": "푸른 나이"
+        },
+        {
+          "hanja": "靑山",
+          "reading": "청산",
+          "meaning": "푸른 산"
+        },
+        {
+          "hanja": "靑色",
+          "reading": "청색",
+          "meaning": "푸른색"
+        },
+        {
+          "hanja": "靑春",
+          "reading": "청춘",
+          "meaning": "푸른 봄"
+        },
+        {
+          "hanja": "靑天",
+          "reading": "청천",
+          "meaning": "푸른 하늘"
+        }
+      ]
+    },
+    {
+      "character": "寸",
+      "meaning": "마디",
+      "sound": "촌",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "一寸",
+          "reading": "일촌",
+          "meaning": "한 마디"
+        },
+        {
+          "hanja": "分寸",
+          "reading": "분촌",
+          "meaning": "나눈 마디"
+        },
+        {
+          "hanja": "寸法",
+          "reading": "촌법",
+          "meaning": "자로 재는 법"
+        },
+        {
+          "hanja": "方寸",
+          "reading": "방촌",
+          "meaning": "네모난 마디"
+        },
+        {
+          "hanja": "寸止",
+          "reading": "촌지",
+          "meaning": "한 마디 멈춤"
+        }
+      ]
+    },
+    {
+      "character": "七",
+      "meaning": "일곱",
+      "sound": "칠",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "七月",
+          "reading": "칠월",
+          "meaning": "일곱째 달"
+        },
+        {
+          "hanja": "十七",
+          "reading": "십칠",
+          "meaning": "열일곱"
+        },
+        {
+          "hanja": "七十",
+          "reading": "칠십",
+          "meaning": "일흔"
+        },
+        {
+          "hanja": "七日",
+          "reading": "칠일",
+          "meaning": "이레"
+        },
+        {
+          "hanja": "七色",
+          "reading": "칠색",
+          "meaning": "일곱 빛깔"
+        }
+      ]
+    },
+    {
+      "character": "土",
+      "meaning": "흙",
+      "sound": "토",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "土地",
+          "reading": "토지",
+          "meaning": "흙의 땅"
+        },
+        {
+          "hanja": "土産",
+          "reading": "토산",
+          "meaning": "그 땅의 산물"
+        },
+        {
+          "hanja": "土器",
+          "reading": "토기",
+          "meaning": "흙으로 만든 그릇"
+        },
+        {
+          "hanja": "國土",
+          "reading": "국토",
+          "meaning": "나라의 땅"
+        },
+        {
+          "hanja": "土星",
+          "reading": "토성",
+          "meaning": "흙의 별"
+        }
+      ]
+    },
+    {
+      "character": "八",
+      "meaning": "여덟",
+      "sound": "팔",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "八月",
+          "reading": "팔월",
+          "meaning": "여덟째 달"
+        },
+        {
+          "hanja": "十八",
+          "reading": "십팔",
+          "meaning": "열여덟"
+        },
+        {
+          "hanja": "八十",
+          "reading": "팔십",
+          "meaning": "여든"
+        },
+        {
+          "hanja": "八日",
+          "reading": "팔일",
+          "meaning": "여드레"
+        },
+        {
+          "hanja": "八方",
+          "reading": "팔방",
+          "meaning": "여덟 방향"
+        }
+      ]
+    },
+    {
+      "character": "學",
+      "meaning": "배울",
+      "sound": "학",
+      "strokeCount": 16,
+      "words": [
+        {
+          "hanja": "學校",
+          "reading": "학교",
+          "meaning": "배우는 곳"
+        },
+        {
+          "hanja": "學生",
+          "reading": "학생",
+          "meaning": "배우는 사람"
+        },
+        {
+          "hanja": "學問",
+          "reading": "학문",
+          "meaning": "배우고 물음"
+        },
+        {
+          "hanja": "學年",
+          "reading": "학년",
+          "meaning": "배우는 해"
+        },
+        {
+          "hanja": "大學",
+          "reading": "대학",
+          "meaning": "큰 배움"
+        }
+      ]
+    },
+    {
+      "character": "韓",
+      "meaning": "한나라",
+      "sound": "한",
+      "strokeCount": 17,
+      "words": [
+        {
+          "hanja": "韓國",
+          "reading": "한국",
+          "meaning": "한나라"
+        },
+        {
+          "hanja": "韓国語",
+          "reading": "한국어",
+          "meaning": "한나라 말"
+        },
+        {
+          "hanja": "韓紙",
+          "reading": "한지",
+          "meaning": "한나라 종이"
+        },
+        {
+          "hanja": "韓服",
+          "reading": "한복",
+          "meaning": "한나라 옷"
+        },
+        {
+          "hanja": "韓半島",
+          "reading": "한반도",
+          "meaning": "한반도"
+        }
+      ]
+    },
+    {
+      "character": "兄",
+      "meaning": "맏",
+      "sound": "형",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "兄弟",
+          "reading": "형제",
+          "meaning": "형과 아우"
+        },
+        {
+          "hanja": "兄嫂",
+          "reading": "형수",
+          "meaning": "형의 아내"
+        },
+        {
+          "hanja": "師兄",
+          "reading": "사형",
+          "meaning": "스승의 맏"
+        },
+        {
+          "hanja": "長兄",
+          "reading": "장형",
+          "meaning": "맏형"
+        },
+        {
+          "hanja": "兄姉",
+          "reading": "형자",
+          "meaning": "형과 누이"
+        }
+      ]
+    },
+    {
+      "character": "火",
+      "meaning": "불",
+      "sound": "화",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "火事",
+          "reading": "화재",
+          "meaning": "불 일"
+        },
+        {
+          "hanja": "火力",
+          "reading": "화력",
+          "meaning": "불의 힘"
+        },
+        {
+          "hanja": "火曜日",
+          "reading": "화요일",
+          "meaning": "화요일"
+        },
+        {
+          "hanja": "火花",
+          "reading": "화화",
+          "meaning": "불꽃"
+        },
+        {
+          "hanja": "火山",
+          "reading": "화산",
+          "meaning": "불 산"
+        }
+      ]
+    },
+    {
+      "character": "家",
+      "meaning": "집",
+      "sound": "가",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "家族",
+          "reading": "가족",
+          "meaning": "한 집안의 사람들"
+        },
+        {
+          "hanja": "家庭",
+          "reading": "가정",
+          "meaning": "가족이 사는 곳"
+        },
+        {
+          "hanja": "國家",
+          "reading": "국가",
+          "meaning": "나라"
+        },
+        {
+          "hanja": "家門",
+          "reading": "가문",
+          "meaning": "집안의 문벌"
+        },
+        {
+          "hanja": "作家",
+          "reading": "작가",
+          "meaning": "글을 짓는 사람"
+        }
+      ]
+    },
+    {
+      "character": "間",
+      "meaning": "사이",
+      "sound": "간",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "時間",
+          "reading": "시간",
+          "meaning": "때의 사이"
+        },
+        {
+          "hanja": "空間",
+          "reading": "공간",
+          "meaning": "빈 사이"
+        },
+        {
+          "hanja": "人間",
+          "reading": "인간",
+          "meaning": "사람"
+        },
+        {
+          "hanja": "夜間",
+          "reading": "야간",
+          "meaning": "밤 사이"
+        },
+        {
+          "hanja": "中間",
+          "reading": "중간",
+          "meaning": "가운데"
+        }
+      ]
+    },
+    {
+      "character": "江",
+      "meaning": "강",
+      "sound": "강",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "江邊",
+          "reading": "강변",
+          "meaning": "강가"
+        },
+        {
+          "hanja": "江口",
+          "reading": "강구",
+          "meaning": "강 어귀"
+        },
+        {
+          "hanja": "江水",
+          "reading": "강수",
+          "meaning": "강물"
+        },
+        {
+          "hanja": "長江",
+          "reading": "장강",
+          "meaning": "긴 강"
+        },
+        {
+          "hanja": "江南",
+          "reading": "강남",
+          "meaning": "강 남쪽"
+        }
+      ]
+    },
+    {
+      "character": "車",
+      "meaning": "수레",
+      "sound": "차",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "汽車",
+          "reading": "기차",
+          "meaning": "기운으로 가는 수레"
+        },
+        {
+          "hanja": "電車",
+          "reading": "전차",
+          "meaning": "전기로 가는 수레"
+        },
+        {
+          "hanja": "自動車",
+          "reading": "자동차",
+          "meaning": "스스로 움직이는 수레"
+        },
+        {
+          "hanja": "風車",
+          "reading": "풍차",
+          "meaning": "바람 수레"
+        },
+        {
+          "hanja": "車道",
+          "reading": "차도",
+          "meaning": "수레가 다니는 길"
+        }
+      ]
+    },
+    {
+      "character": "工",
+      "meaning": "장인",
+      "sound": "공",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "工場",
+          "reading": "공장",
+          "meaning": "물건을 만드는 곳"
+        },
+        {
+          "hanja": "工事",
+          "reading": "공사",
+          "meaning": "짓는 일"
+        },
+        {
+          "hanja": "工業",
+          "reading": "공업",
+          "meaning": "물건을 만드는 일"
+        },
+        {
+          "hanja": "人工",
+          "reading": "인공",
+          "meaning": "사람이 만듦"
+        },
+        {
+          "hanja": "木工",
+          "reading": "목공",
+          "meaning": "나무로 만드는 일"
+        }
+      ]
+    },
+    {
+      "character": "空",
+      "meaning": "빌",
+      "sound": "공",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "空氣",
+          "reading": "공기",
+          "meaning": "빈 데의 기운"
+        },
+        {
+          "hanja": "空間",
+          "reading": "공간",
+          "meaning": "빈 사이"
+        },
+        {
+          "hanja": "空軍",
+          "reading": "공군",
+          "meaning": "하늘의 군사"
+        },
+        {
+          "hanja": "空中",
+          "reading": "공중",
+          "meaning": "하늘 가운데"
+        },
+        {
+          "hanja": "真空",
+          "reading": "진공",
+          "meaning": "비어 있음"
+        }
+      ]
+    },
+    {
+      "character": "氣",
+      "meaning": "기운",
+      "sound": "기",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "氣力",
+          "reading": "기력",
+          "meaning": "기운과 힘"
+        },
+        {
+          "hanja": "天氣",
+          "reading": "천기",
+          "meaning": "하늘의 기운"
+        },
+        {
+          "hanja": "空氣",
+          "reading": "공기",
+          "meaning": "빈 데의 기운"
+        },
+        {
+          "hanja": "人氣",
+          "reading": "인기",
+          "meaning": "사람들의 좋아함"
+        },
+        {
+          "hanja": "活氣",
+          "reading": "활기",
+          "meaning": "살아 있는 기운"
+        }
+      ]
+    },
+    {
+      "character": "記",
+      "meaning": "기록할",
+      "sound": "기",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "記錄",
+          "reading": "기록",
+          "meaning": "적어 남김"
+        },
+        {
+          "hanja": "日記",
+          "reading": "일기",
+          "meaning": "날마다 적는 글"
+        },
+        {
+          "hanja": "記事",
+          "reading": "기사",
+          "meaning": "적은 일"
+        },
+        {
+          "hanja": "記者",
+          "reading": "기자",
+          "meaning": "기사를 쓰는 사람"
+        },
+        {
+          "hanja": "登記",
+          "reading": "등기",
+          "meaning": "적어 올림"
+        }
+      ]
+    },
+    {
+      "character": "男",
+      "meaning": "사내",
+      "sound": "남",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "男子",
+          "reading": "남자",
+          "meaning": "사내아이"
+        },
+        {
+          "hanja": "男女",
+          "reading": "남녀",
+          "meaning": "남자와 여자"
+        },
+        {
+          "hanja": "男兒",
+          "reading": "남아",
+          "meaning": "사내아이"
+        },
+        {
+          "hanja": "長男",
+          "reading": "장남",
+          "meaning": "첫째 아들"
+        },
+        {
+          "hanja": "男子",
+          "reading": "남자",
+          "meaning": "사내"
+        }
+      ]
+    },
+    {
+      "character": "內",
+      "meaning": "안",
+      "sound": "내",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "國內",
+          "reading": "국내",
+          "meaning": "나라 안"
+        },
+        {
+          "hanja": "室內",
+          "reading": "실내",
+          "meaning": "방 안"
+        },
+        {
+          "hanja": "內外",
+          "reading": "내외",
+          "meaning": "안과 밖"
+        },
+        {
+          "hanja": "體內",
+          "reading": "체내",
+          "meaning": "몸 안"
+        },
+        {
+          "hanja": "校內",
+          "reading": "교내",
+          "meaning": "학교 안"
+        }
+      ]
+    },
+    {
+      "character": "農",
+      "meaning": "농사",
+      "sound": "농",
+      "strokeCount": 13,
+      "words": [
+        {
+          "hanja": "農民",
+          "reading": "농민",
+          "meaning": "농사 짓는 백성"
+        },
+        {
+          "hanja": "農業",
+          "reading": "농업",
+          "meaning": "농사의 일"
+        },
+        {
+          "hanja": "農夫",
+          "reading": "농부",
+          "meaning": "농사짓는 사람"
+        },
+        {
+          "hanja": "農村",
+          "reading": "농촌",
+          "meaning": "농사짓는 마을"
+        },
+        {
+          "hanja": "農場",
+          "reading": "농장",
+          "meaning": "농사의 장"
+        }
+      ]
+    },
+    {
+      "character": "答",
+      "meaning": "대답할",
+      "sound": "답",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "回答",
+          "reading": "회답",
+          "meaning": "돌아와 대답함"
+        },
+        {
+          "hanja": "答案",
+          "reading": "답안",
+          "meaning": "대답한 글"
+        },
+        {
+          "hanja": "問答",
+          "reading": "문답",
+          "meaning": "물음과 대답"
+        },
+        {
+          "hanja": "答禮",
+          "reading": "답례",
+          "meaning": "대답하는 예"
+        },
+        {
+          "hanja": "答辯",
+          "reading": "답변",
+          "meaning": "대답하여 변명함"
+        }
+      ]
+    },
+    {
+      "character": "道",
+      "meaning": "길",
+      "sound": "도",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "道路",
+          "reading": "도로",
+          "meaning": "길"
+        },
+        {
+          "hanja": "道理",
+          "reading": "도리",
+          "meaning": "길의 이치"
+        },
+        {
+          "hanja": "正道",
+          "reading": "정도",
+          "meaning": "바른 길"
+        },
+        {
+          "hanja": "人道",
+          "reading": "인도",
+          "meaning": "사람의 길"
+        },
+        {
+          "hanja": "水道",
+          "reading": "수도",
+          "meaning": "물길"
+        }
+      ]
+    },
+    {
+      "character": "動",
+      "meaning": "움직일",
+      "sound": "동",
+      "strokeCount": 11,
+      "words": [
+        {
+          "hanja": "運動",
+          "reading": "운동",
+          "meaning": "움직여 돌림"
+        },
+        {
+          "hanja": "行動",
+          "reading": "행동",
+          "meaning": "다니며 움직임"
+        },
+        {
+          "hanja": "動作",
+          "reading": "동작",
+          "meaning": "움직이는 일"
+        },
+        {
+          "hanja": "活動",
+          "reading": "활동",
+          "meaning": "살아 움직임"
+        },
+        {
+          "hanja": "自動",
+          "reading": "자동",
+          "meaning": "스스로 움직임"
+        }
+      ]
+    },
+    {
+      "character": "力",
+      "meaning": "힘",
+      "sound": "력",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "氣力",
+          "reading": "기력",
+          "meaning": "기운과 힘"
+        },
+        {
+          "hanja": "努力",
+          "reading": "노력",
+          "meaning": "힘을 들임"
+        },
+        {
+          "hanja": "能力",
+          "reading": "능력",
+          "meaning": "할 수 있는 힘"
+        },
+        {
+          "hanja": "力學",
+          "reading": "역학",
+          "meaning": "힘의 배움"
+        },
+        {
+          "hanja": "主力",
+          "reading": "주력",
+          "meaning": "주된 힘"
+        }
+      ]
+    },
+    {
+      "character": "立",
+      "meaning": "설",
+      "sound": "립",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "獨立",
+          "reading": "독립",
+          "meaning": "홀로 섬"
+        },
+        {
+          "hanja": "立場",
+          "reading": "입장",
+          "meaning": "서 있는 자리"
+        },
+        {
+          "hanja": "建立",
+          "reading": "건립",
+          "meaning": "세움"
+        },
+        {
+          "hanja": "立春",
+          "reading": "입춘",
+          "meaning": "봄이 섬"
+        },
+        {
+          "hanja": "立冬",
+          "reading": "입동",
+          "meaning": "겨울이 섬"
+        }
+      ]
+    },
+    {
+      "character": "每",
+      "meaning": "매양",
+      "sound": "매",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "每日",
+          "reading": "매일",
+          "meaning": "날마다"
+        },
+        {
+          "hanja": "每年",
+          "reading": "매년",
+          "meaning": "해마다"
+        },
+        {
+          "hanja": "每月",
+          "reading": "매월",
+          "meaning": "달마다"
+        },
+        {
+          "hanja": "每時",
+          "reading": "매시",
+          "meaning": "시마다"
+        },
+        {
+          "hanja": "每次",
+          "reading": "매차",
+          "meaning": "번마다"
+        }
+      ]
+    },
+    {
+      "character": "名",
+      "meaning": "이름",
+      "sound": "명",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "有名",
+          "reading": "유명",
+          "meaning": "이름이 있음"
+        },
+        {
+          "hanja": "名人",
+          "reading": "명인",
+          "meaning": "이름난 사람"
+        },
+        {
+          "hanja": "名前",
+          "reading": "명전",
+          "meaning": "이름 앞"
+        },
+        {
+          "hanja": "名所",
+          "reading": "명소",
+          "meaning": "이름난 곳"
+        },
+        {
+          "hanja": "姓名",
+          "reading": "성명",
+          "meaning": "성과 이름"
+        }
+      ]
+    },
+    {
+      "character": "物",
+      "meaning": "것",
+      "sound": "물",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "動物",
+          "reading": "동물",
+          "meaning": "움직이는 것"
+        },
+        {
+          "hanja": "物質",
+          "reading": "물질",
+          "meaning": "것의 바탕"
+        },
+        {
+          "hanja": "食物",
+          "reading": "식물",
+          "meaning": "먹을 것"
+        },
+        {
+          "hanja": "植物",
+          "reading": "식물",
+          "meaning": "심은 것"
+        },
+        {
+          "hanja": "物價",
+          "reading": "물가",
+          "meaning": "것의 값"
+        }
+      ]
+    },
+    {
+      "character": "方",
+      "meaning": "모",
+      "sound": "방",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "方法",
+          "reading": "방법",
+          "meaning": "일을 하는 길"
+        },
+        {
+          "hanja": "方向",
+          "reading": "방향",
+          "meaning": "나아가는 쪽"
+        },
+        {
+          "hanja": "地方",
+          "reading": "지방",
+          "meaning": "땅의 방"
+        },
+        {
+          "hanja": "四方",
+          "reading": "사방",
+          "meaning": "네 방향"
+        },
+        {
+          "hanja": "北方",
+          "reading": "북방",
+          "meaning": "북쪽"
+        }
+      ]
+    },
+    {
+      "character": "不",
+      "meaning": "아닐",
+      "sound": "불",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "不正",
+          "reading": "부정",
+          "meaning": "바르지 않음"
+        },
+        {
+          "hanja": "不安",
+          "reading": "불안",
+          "meaning": "편안하지 않음"
+        },
+        {
+          "hanja": "不利",
+          "reading": "불리",
+          "meaning": "이롭지 않음"
+        },
+        {
+          "hanja": "不明",
+          "reading": "불명",
+          "meaning": "밝지 않음"
+        },
+        {
+          "hanja": "不足",
+          "reading": "부족",
+          "meaning": "모자람"
+        }
+      ]
+    },
+    {
+      "character": "事",
+      "meaning": "일",
+      "sound": "사",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "事務",
+          "reading": "사무",
+          "meaning": "하는 일"
+        },
+        {
+          "hanja": "食事",
+          "reading": "식사",
+          "meaning": "밥 먹는 일"
+        },
+        {
+          "hanja": "事實",
+          "reading": "사실",
+          "meaning": "일어난 일"
+        },
+        {
+          "hanja": "人事",
+          "reading": "인사",
+          "meaning": "사람의 일"
+        },
+        {
+          "hanja": "軍事",
+          "reading": "군사",
+          "meaning": "군의 일"
+        }
+      ]
+    },
+    {
+      "character": "上",
+      "meaning": "위",
+      "sound": "상",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "上下",
+          "reading": "상하",
+          "meaning": "위와 아래"
+        },
+        {
+          "hanja": "以上",
+          "reading": "이상",
+          "meaning": "이 위"
+        },
+        {
+          "hanja": "地上",
+          "reading": "지상",
+          "meaning": "땅 위"
+        },
+        {
+          "hanja": "上流",
+          "reading": "상류",
+          "meaning": "위쪽 흐름"
+        },
+        {
+          "hanja": "上學",
+          "reading": "상학",
+          "meaning": "학교에 올라감"
+        }
+      ]
+    },
+    {
+      "character": "姓",
+      "meaning": "성",
+      "sound": "성",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "姓名",
+          "reading": "성명",
+          "meaning": "성과 이름"
+        },
+        {
+          "hanja": "同姓",
+          "reading": "동성",
+          "meaning": "같은 성"
+        },
+        {
+          "hanja": "百姓",
+          "reading": "백성",
+          "meaning": "나라의 사람들"
+        },
+        {
+          "hanja": "姓氏",
+          "reading": "성씨",
+          "meaning": "성과 씨"
+        },
+        {
+          "hanja": "姓族",
+          "reading": "성족",
+          "meaning": "같은 성의 무리"
+        }
+      ]
+    },
+    {
+      "character": "世",
+      "meaning": "대",
+      "sound": "세",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "世界",
+          "reading": "세계",
+          "meaning": "시대의 경계"
+        },
+        {
+          "hanja": "世代",
+          "reading": "세대",
+          "meaning": "한 대"
+        },
+        {
+          "hanja": "世上",
+          "reading": "세상",
+          "meaning": "대 위"
+        },
+        {
+          "hanja": "世紀",
+          "reading": "세기",
+          "meaning": "한백 해"
+        },
+        {
+          "hanja": "人世",
+          "reading": "인세",
+          "meaning": "사람의 세상"
+        }
+      ]
+    },
+    {
+      "character": "手",
+      "meaning": "손",
+      "sound": "수",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "手紙",
+          "reading": "수지",
+          "meaning": "손으로 쓴 종이"
+        },
+        {
+          "hanja": "選手",
+          "reading": "선수",
+          "meaning": "뽑힌 손"
+        },
+        {
+          "hanja": "手段",
+          "reading": "수단",
+          "meaning": "손의 단서"
+        },
+        {
+          "hanja": "握手",
+          "reading": "악수",
+          "meaning": "손을 잡음"
+        },
+        {
+          "hanja": "亲手",
+          "reading": "친수",
+          "meaning": "친한 손"
+        }
+      ]
+    },
+    {
+      "character": "時",
+      "meaning": "때",
+      "sound": "시",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "時間",
+          "reading": "시간",
+          "meaning": "때의 사이"
+        },
+        {
+          "hanja": "時代",
+          "reading": "시대",
+          "meaning": "때의 대"
+        },
+        {
+          "hanja": "時計",
+          "reading": "시계",
+          "meaning": "때를 재는 것"
+        },
+        {
+          "hanja": "同時",
+          "reading": "동시",
+          "meaning": "같은 때"
+        },
+        {
+          "hanja": "一時",
+          "reading": "일시",
+          "meaning": "한 때"
+        }
+      ]
+    },
+    {
+      "character": "市",
+      "meaning": "저자",
+      "sound": "시",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "市場",
+          "reading": "시장",
+          "meaning": "물건 사고파는 곳"
+        },
+        {
+          "hanja": "都市",
+          "reading": "도시",
+          "meaning": "큰 마을"
+        },
+        {
+          "hanja": "市民",
+          "reading": "시민",
+          "meaning": "도시의 백성"
+        },
+        {
+          "hanja": "市外",
+          "reading": "시외",
+          "meaning": "도시 밖"
+        },
+        {
+          "hanja": "市街",
+          "reading": "시가",
+          "meaning": "도시의 거리"
+        }
+      ]
+    },
+    {
+      "character": "食",
+      "meaning": "밥",
+      "sound": "식",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "食事",
+          "reading": "식사",
+          "meaning": "밥 먹는 일"
+        },
+        {
+          "hanja": "食堂",
+          "reading": "식당",
+          "meaning": "밥 먹는 곳"
+        },
+        {
+          "hanja": "食物",
+          "reading": "식물",
+          "meaning": "먹을 것"
+        },
+        {
+          "hanja": "主食",
+          "reading": "주식",
+          "meaning": "주로 먹는 음식"
+        },
+        {
+          "hanja": "晩食",
+          "reading": "만식",
+          "meaning": "저녁 밥"
+        }
+      ]
+    },
+    {
+      "character": "安",
+      "meaning": "편안할",
+      "sound": "안",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "安心",
+          "reading": "안심",
+          "meaning": "마음이 편함"
+        },
+        {
+          "hanja": "安全",
+          "reading": "안전",
+          "meaning": "편안하고 바름"
+        },
+        {
+          "hanja": "平安",
+          "reading": "평안",
+          "meaning": "평평히 편함"
+        },
+        {
+          "hanja": "安息",
+          "reading": "안식",
+          "meaning": "편히 쉼"
+        },
+        {
+          "hanja": "不安",
+          "reading": "불안",
+          "meaning": "편안하지 않음"
+        }
+      ]
+    },
+    {
+      "character": "午",
+      "meaning": "낮",
+      "sound": "오",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "正午",
+          "reading": "정오",
+          "meaning": "바른 낮"
+        },
+        {
+          "hanja": "午前",
+          "reading": "오전",
+          "meaning": "낮 전"
+        },
+        {
+          "hanja": "午後",
+          "reading": "오후",
+          "meaning": "낮 뒤"
+        },
+        {
+          "hanja": "午時",
+          "reading": "오시",
+          "meaning": "낮 시"
+        },
+        {
+          "hanja": "午休",
+          "reading": "오휴",
+          "meaning": "낮에 쉼"
+        }
+      ]
+    },
+    {
+      "character": "右",
+      "meaning": "오른쪽",
+      "sound": "우",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "左右",
+          "reading": "좌우",
+          "meaning": "왼쪽과 오른쪽"
+        },
+        {
+          "hanja": "右側",
+          "reading": "우측",
+          "meaning": "오른쪽"
+        },
+        {
+          "hanja": "右手",
+          "reading": "우수",
+          "meaning": "오른 손"
+        },
+        {
+          "hanja": "右派",
+          "reading": "우파",
+          "meaning": "오른쪽 무리"
+        },
+        {
+          "hanja": "右翼",
+          "reading": "우익",
+          "meaning": "오른쪽 날개"
+        }
+      ]
+    },
+    {
+      "character": "子",
+      "meaning": "아이",
+      "sound": "자",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "子女",
+          "reading": "자녀",
+          "meaning": "아들과 딸"
+        },
+        {
+          "hanja": "男子",
+          "reading": "남자",
+          "meaning": "사내아이"
+        },
+        {
+          "hanja": "女子",
+          "reading": "여자",
+          "meaning": "계집아이"
+        },
+        {
+          "hanja": "子供",
+          "reading": "자공",
+          "meaning": "아이들"
+        },
+        {
+          "hanja": "弟子",
+          "reading": "제자",
+          "meaning": "아우 같은 사람"
+        }
+      ]
+    },
+    {
+      "character": "自",
+      "meaning": "스스로",
+      "sound": "자",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "自立",
+          "reading": "자립",
+          "meaning": "스스로 섬"
+        },
+        {
+          "hanja": "自信",
+          "reading": "자신",
+          "meaning": "스스로 믿음"
+        },
+        {
+          "hanja": "自然",
+          "reading": "자연",
+          "meaning": "스스로 그러함"
+        },
+        {
+          "hanja": "自己",
+          "reading": "자기",
+          "meaning": "스스로"
+        },
+        {
+          "hanja": "自由",
+          "reading": "자유",
+          "meaning": "스스로 마음대로"
+        }
+      ]
+    },
+    {
+      "character": "場",
+      "meaning": "마당",
+      "sound": "장",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "場所",
+          "reading": "장소",
+          "meaning": "마당과 곳"
+        },
+        {
+          "hanja": "運動場",
+          "reading": "운동장",
+          "meaning": "운동하는 마당"
+        },
+        {
+          "hanja": "市場",
+          "reading": "시장",
+          "meaning": "물건 사고파는 곳"
+        },
+        {
+          "hanja": "工場",
+          "reading": "공장",
+          "meaning": "일하는 마당"
+        },
+        {
+          "hanja": "會場",
+          "reading": "회장",
+          "meaning": "모이는 마당"
+        }
+      ]
+    },
+    {
+      "character": "電",
+      "meaning": "번개",
+      "sound": "전",
+      "strokeCount": 13,
+      "words": [
+        {
+          "hanja": "電氣",
+          "reading": "전기",
+          "meaning": "번개의 기운"
+        },
+        {
+          "hanja": "電車",
+          "reading": "전차",
+          "meaning": "전기로 가는 수레"
+        },
+        {
+          "hanja": "電話",
+          "reading": "전화",
+          "meaning": "전기로 하는 말"
+        },
+        {
+          "hanja": "電力",
+          "reading": "전력",
+          "meaning": "전기의 힘"
+        },
+        {
+          "hanja": "電信",
+          "reading": "전신",
+          "meaning": "전기로 전함"
+        }
+      ]
+    },
+    {
+      "character": "前",
+      "meaning": "앞",
+      "sound": "전",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "前後",
+          "reading": "전후",
+          "meaning": "앞과 뒤"
+        },
+        {
+          "hanja": "午前",
+          "reading": "오전",
+          "meaning": "낮 전"
+        },
+        {
+          "hanja": "日前",
+          "reading": "일전",
+          "meaning": "며칠 전"
+        },
+        {
+          "hanja": "以前",
+          "reading": "이전",
+          "meaning": "이 앞"
+        },
+        {
+          "hanja": "前進",
+          "reading": "전진",
+          "meaning": "앞으로 나감"
+        }
+      ]
+    },
+    {
+      "character": "全",
+      "meaning": "온전할",
+      "sound": "전",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "全體",
+          "reading": "전체",
+          "meaning": "온전한 몸"
+        },
+        {
+          "hanja": "完全",
+          "reading": "완전",
+          "meaning": "완전함"
+        },
+        {
+          "hanja": "全國",
+          "reading": "전국",
+          "meaning": "온 나라"
+        },
+        {
+          "hanja": "安全",
+          "reading": "안전",
+          "meaning": "편안하고 바름"
+        },
+        {
+          "hanja": "全部",
+          "reading": "전부",
+          "meaning": "온 부분"
+        }
+      ]
+    },
+    {
+      "character": "正",
+      "meaning": "바를",
+      "sound": "정",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "正確",
+          "reading": "정확",
+          "meaning": "바르고 정확함"
+        },
+        {
+          "hanja": "正直",
+          "reading": "정직",
+          "meaning": "바르고 곧음"
+        },
+        {
+          "hanja": "正門",
+          "reading": "정문",
+          "meaning": "바른 문"
+        },
+        {
+          "hanja": "正月",
+          "reading": "정월",
+          "meaning": "바른 달"
+        },
+        {
+          "hanja": "正午",
+          "reading": "정오",
+          "meaning": "바른 낮"
+        }
+      ]
+    },
+    {
+      "character": "足",
+      "meaning": "발",
+      "sound": "족",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "手足",
+          "reading": "수족",
+          "meaning": "손과 발"
+        },
+        {
+          "hanja": "滿足",
+          "reading": "만족",
+          "meaning": "가득 차서 넉넉함"
+        },
+        {
+          "hanja": "不足",
+          "reading": "부족",
+          "meaning": "모자람"
+        },
+        {
+          "hanja": "立足",
+          "reading": "입족",
+          "meaning": "발을 땀"
+        },
+        {
+          "hanja": "足音",
+          "reading": "족음",
+          "meaning": "발 소리"
+        }
+      ]
+    },
+    {
+      "character": "左",
+      "meaning": "왼쪽",
+      "sound": "좌",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "左右",
+          "reading": "좌우",
+          "meaning": "왼쪽과 오른쪽"
+        },
+        {
+          "hanja": "左側",
+          "reading": "좌측",
+          "meaning": "왼쪽"
+        },
+        {
+          "hanja": "左手",
+          "reading": "좌수",
+          "meaning": "왼손"
+        },
+        {
+          "hanja": "左派",
+          "reading": "좌파",
+          "meaning": "왼쪽 무리"
+        },
+        {
+          "hanja": "左翼",
+          "reading": "좌익",
+          "meaning": "왼쪽 날개"
+        }
+      ]
+    },
+    {
+      "character": "直",
+      "meaning": "곧을",
+      "sound": "직",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "正直",
+          "reading": "정직",
+          "meaning": "바르고 곧음"
+        },
+        {
+          "hanja": "直接",
+          "reading": "직접",
+          "meaning": "곧 이음"
+        },
+        {
+          "hanja": "直線",
+          "reading": "직선",
+          "meaning": "곧은 선"
+        },
+        {
+          "hanja": "直行",
+          "reading": "직행",
+          "meaning": "곧 감"
+        },
+        {
+          "hanja": "直觀",
+          "reading": "직관",
+          "meaning": "곧 바라봄"
+        }
+      ]
+    },
+    {
+      "character": "平",
+      "meaning": "평평할",
+      "sound": "평",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "平和",
+          "reading": "평화",
+          "meaning": "평평하고 화함"
+        },
+        {
+          "hanja": "水平",
+          "reading": "수평",
+          "meaning": "물결처럼 평평함"
+        },
+        {
+          "hanja": "平地",
+          "reading": "평지",
+          "meaning": "평평한 땅"
+        },
+        {
+          "hanja": "太平",
+          "reading": "태평",
+          "meaning": "크게 평안함"
+        },
+        {
+          "hanja": "平日",
+          "reading": "평일",
+          "meaning": "보통 날"
+        }
+      ]
+    },
+    {
+      "character": "下",
+      "meaning": "아래",
+      "sound": "하",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "上下",
+          "reading": "상하",
+          "meaning": "위와 아래"
+        },
+        {
+          "hanja": "地下",
+          "reading": "지하",
+          "meaning": "땅 아래"
+        },
+        {
+          "hanja": "以下",
+          "reading": "이하",
+          "meaning": "이 아래"
+        },
+        {
+          "hanja": "下流",
+          "reading": "하류",
+          "meaning": "아래쪽 흐름"
+        },
+        {
+          "hanja": "南下",
+          "reading": "남하",
+          "meaning": "남쪽으로 감"
+        }
+      ]
+    },
+    {
+      "character": "漢",
+      "meaning": "한나라",
+      "sound": "한",
+      "strokeCount": 14,
+      "words": [
+        {
+          "hanja": "漢字",
+          "reading": "한자",
+          "meaning": "한나라 글자"
+        },
+        {
+          "hanja": "漢文",
+          "reading": "한문",
+          "meaning": "한나라 글"
+        },
+        {
+          "hanja": "漢江",
+          "reading": "한강",
+          "meaning": "한강"
+        },
+        {
+          "hanja": "大漢",
+          "reading": "대한",
+          "meaning": "큰 한나라"
+        },
+        {
+          "hanja": "漢語",
+          "reading": "한어",
+          "meaning": "한나라 말"
+        }
+      ]
+    },
+    {
+      "character": "海",
+      "meaning": "바다",
+      "sound": "해",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "海洋",
+          "reading": "해양",
+          "meaning": "바다와 넓은 물"
+        },
+        {
+          "hanja": "海外",
+          "reading": "해외",
+          "meaning": "바다 밖"
+        },
+        {
+          "hanja": "海岸",
+          "reading": "해안",
+          "meaning": "바다 언덕"
+        },
+        {
+          "hanja": "北海",
+          "reading": "북해",
+          "meaning": "북쪽 바다"
+        },
+        {
+          "hanja": "東海",
+          "reading": "동해",
+          "meaning": "동쪽 바다"
+        }
+      ]
+    },
+    {
+      "character": "話",
+      "meaning": "말",
+      "sound": "화",
+      "strokeCount": 13,
+      "words": [
+        {
+          "hanja": "電話",
+          "reading": "전화",
+          "meaning": "전기로 하는 말"
+        },
+        {
+          "hanja": "會話",
+          "reading": "회화",
+          "meaning": "모여서 말함"
+        },
+        {
+          "hanja": "說話",
+          "reading": "설화",
+          "meaning": "이야기"
+        },
+        {
+          "hanja": "話術",
+          "reading": "화술",
+          "meaning": "말하는 재주"
+        },
+        {
+          "hanja": "對話",
+          "reading": "대화",
+          "meaning": "서로 말함"
+        }
+      ]
+    },
+    {
+      "character": "活",
+      "meaning": "살",
+      "sound": "활",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "活動",
+          "reading": "활동",
+          "meaning": "살아 움직임"
+        },
+        {
+          "hanja": "生活",
+          "reading": "생활",
+          "meaning": "살아감"
+        },
+        {
+          "hanja": "活氣",
+          "reading": "활기",
+          "meaning": "살아 있는 기운"
+        },
+        {
+          "hanja": "活力",
+          "reading": "활력",
+          "meaning": "살아 있는 힘"
+        },
+        {
+          "hanja": "活用",
+          "reading": "활용",
+          "meaning": "살려 씀"
+        }
+      ]
+    },
+    {
+      "character": "孝",
+      "meaning": "효도",
+      "sound": "효",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "孝子",
+          "reading": "효자",
+          "meaning": "효도하는 아들"
+        },
+        {
+          "hanja": "孝女",
+          "reading": "효녀",
+          "meaning": "효도하는 딸"
+        },
+        {
+          "hanja": "孝道",
+          "reading": "효도",
+          "meaning": "어버이를 섬기는 도리"
+        },
+        {
+          "hanja": "孝心",
+          "reading": "효심",
+          "meaning": "효도하는 마음"
+        },
+        {
+          "hanja": "不孝",
+          "reading": "불효",
+          "meaning": "효도하지 않음"
+        }
+      ]
+    },
+    {
+      "character": "後",
+      "meaning": "뒤",
+      "sound": "후",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "以後",
+          "reading": "이후",
+          "meaning": "이 뒤"
+        },
+        {
+          "hanja": "午後",
+          "reading": "오후",
+          "meaning": "낮 뒤"
+        },
+        {
+          "hanja": "最後",
+          "reading": "최후",
+          "meaning": "가장 뒤"
+        },
+        {
+          "hanja": "後輩",
+          "reading": "후배",
+          "meaning": "뒤에 배운 사람"
+        },
+        {
+          "hanja": "後來",
+          "reading": "후래",
+          "meaning": "뒤에 옴"
+        }
+      ]
+    },
+    {
+      "character": "歌",
+      "meaning": "노래",
+      "sound": "가",
+      "strokeCount": 14,
+      "words": [
+        {
+          "hanja": "歌手",
+          "reading": "가수",
+          "meaning": "노래하는 사람"
+        },
+        {
+          "hanja": "國歌",
+          "reading": "국가",
+          "meaning": "나라의 노래"
+        },
+        {
+          "hanja": "歌曲",
+          "reading": "가곡",
+          "meaning": "노래 곡"
+        },
+        {
+          "hanja": "歌謠",
+          "reading": "가요",
+          "meaning": "노래"
+        },
+        {
+          "hanja": "讚歌",
+          "reading": "찬가",
+          "meaning": "칭찬하는 노래"
+        }
+      ]
+    },
+    {
+      "character": "口",
+      "meaning": "입",
+      "sound": "구",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "入口",
+          "reading": "입구",
+          "meaning": "들어가는 입"
+        },
+        {
+          "hanja": "出口",
+          "reading": "출구",
+          "meaning": "나가는 입"
+        },
+        {
+          "hanja": "人口",
+          "reading": "인구",
+          "meaning": "사람의 수"
+        },
+        {
+          "hanja": "口述",
+          "reading": "구술",
+          "meaning": "입으로 말함"
+        },
+        {
+          "hanja": "口頭",
+          "reading": "구두",
+          "meaning": "입의 머리"
+        }
+      ]
+    },
+    {
+      "character": "旗",
+      "meaning": "기",
+      "sound": "기",
+      "strokeCount": 14,
+      "words": [
+        {
+          "hanja": "國旗",
+          "reading": "국기",
+          "meaning": "나라의 기"
+        },
+        {
+          "hanja": "旗手",
+          "reading": "기수",
+          "meaning": "기를 드는 사람"
+        },
+        {
+          "hanja": "白旗",
+          "reading": "백기",
+          "meaning": "흰 기"
+        },
+        {
+          "hanja": "軍旗",
+          "reading": "군기",
+          "meaning": "군사의 기"
+        },
+        {
+          "hanja": "旗色",
+          "reading": "기색",
+          "meaning": "기의 빛깔"
+        }
+      ]
+    },
+    {
+      "character": "同",
+      "meaning": "같을",
+      "sound": "동",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "同時",
+          "reading": "동시",
+          "meaning": "같은 때"
+        },
+        {
+          "hanja": "同僚",
+          "reading": "동료",
+          "meaning": "같은 무리"
+        },
+        {
+          "hanja": "合同",
+          "reading": "합동",
+          "meaning": "합하여 같음"
+        },
+        {
+          "hanja": "同級",
+          "reading": "동급",
+          "meaning": "같은 등급"
+        },
+        {
+          "hanja": "同意",
+          "reading": "동의",
+          "meaning": "같은 뜻"
+        }
+      ]
+    },
+    {
+      "character": "洞",
+      "meaning": "골",
+      "sound": "동",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "洞窟",
+          "reading": "동굴",
+          "meaning": "골의 굴"
+        },
+        {
+          "hanja": "洞內",
+          "reading": "동내",
+          "meaning": "골 안"
+        },
+        {
+          "hanja": "洞門",
+          "reading": "동문",
+          "meaning": "골의 문"
+        },
+        {
+          "hanja": "仙洞",
+          "reading": "선동",
+          "meaning": "선인의 골"
+        },
+        {
+          "hanja": "山洞",
+          "reading": "산동",
+          "meaning": "산골"
+        }
+      ]
+    },
+    {
+      "character": "冬",
+      "meaning": "겨울",
+      "sound": "동",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "冬季",
+          "reading": "동계",
+          "meaning": "겨울철"
+        },
+        {
+          "hanja": "冬眠",
+          "reading": "동면",
+          "meaning": "겨울에 잠"
+        },
+        {
+          "hanja": "寒冬",
+          "reading": "한동",
+          "meaning": "추운 겨울"
+        },
+        {
+          "hanja": "冬節",
+          "reading": "동절",
+          "meaning": "겨울 절기"
+        },
+        {
+          "hanja": "立冬",
+          "reading": "입동",
+          "meaning": "겨울이 섬"
+        }
+      ]
+    },
+    {
+      "character": "登",
+      "meaning": "오를",
+      "sound": "등",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "登山",
+          "reading": "등산",
+          "meaning": "산에 올라감"
+        },
+        {
+          "hanja": "登校",
+          "reading": "등교",
+          "meaning": "학교에 올라감"
+        },
+        {
+          "hanja": "登場",
+          "reading": "등장",
+          "meaning": "무대에 올라감"
+        },
+        {
+          "hanja": "登錄",
+          "reading": "등록",
+          "meaning": "적어 올림"
+        },
+        {
+          "hanja": "登用",
+          "reading": "등용",
+          "meaning": "올려 씀"
+        }
+      ]
+    },
+    {
+      "character": "來",
+      "meaning": "올",
+      "sound": "래",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "將來",
+          "reading": "장래",
+          "meaning": "올 날"
+        },
+        {
+          "hanja": "來年",
+          "reading": "내년",
+          "meaning": "올 해"
+        },
+        {
+          "hanja": "本來",
+          "reading": "본래",
+          "meaning": "원래"
+        },
+        {
+          "hanja": "未來",
+          "reading": "미래",
+          "meaning": "아직 오지 않은 때"
+        },
+        {
+          "hanja": "往來",
+          "reading": "왕래",
+          "meaning": "오고 감"
+        }
+      ]
+    },
+    {
+      "character": "老",
+      "meaning": "늙을",
+      "sound": "로",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "老人",
+          "reading": "노인",
+          "meaning": "늙은 사람"
+        },
+        {
+          "hanja": "敬老",
+          "reading": "경로",
+          "meaning": "늙은이를 공경함"
+        },
+        {
+          "hanja": "老化",
+          "reading": "노화",
+          "meaning": "늙어 감"
+        },
+        {
+          "hanja": "老師",
+          "reading": "로사",
+          "meaning": "늙은 스승"
+        },
+        {
+          "hanja": "老年",
+          "reading": "노년",
+          "meaning": "늙은 나이"
+        }
+      ]
+    },
+    {
+      "character": "里",
+      "meaning": "마을",
+      "sound": "리",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "千里",
+          "reading": "천리",
+          "meaning": "천 리"
+        },
+        {
+          "hanja": "万里",
+          "reading": "만리",
+          "meaning": "만 리"
+        },
+        {
+          "hanja": "里長",
+          "reading": "이장",
+          "meaning": "마을의 으뜸"
+        },
+        {
+          "hanja": "村里",
+          "reading": "촌리",
+          "meaning": "시골 마을"
+        },
+        {
+          "hanja": "故里",
+          "reading": "고리",
+          "meaning": "옛 마을"
+        }
+      ]
+    },
+    {
+      "character": "林",
+      "meaning": "수풀",
+      "sound": "림",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "山林",
+          "reading": "산림",
+          "meaning": "산의 수풀"
+        },
+        {
+          "hanja": "林野",
+          "reading": "임야",
+          "meaning": "수풀과 들"
+        },
+        {
+          "hanja": "林業",
+          "reading": "임업",
+          "meaning": "수풀을 가꾸는 일"
+        },
+        {
+          "hanja": "森林",
+          "reading": "삼림",
+          "meaning": "빽빽한 수풀"
+        },
+        {
+          "hanja": "竹林",
+          "reading": "죽림",
+          "meaning": "대나무 수풀"
+        }
+      ]
+    },
+    {
+      "character": "面",
+      "meaning": "낯",
+      "sound": "면",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "顔面",
+          "reading": "안면",
+          "meaning": "얼굴 앞"
+        },
+        {
+          "hanja": "地面",
+          "reading": "지면",
+          "meaning": "땅의 겉"
+        },
+        {
+          "hanja": "面接",
+          "reading": "면접",
+          "meaning": "바로 앞에서 이음"
+        },
+        {
+          "hanja": "路面",
+          "reading": "노면",
+          "meaning": "길바닥"
+        },
+        {
+          "hanja": "紙面",
+          "reading": "지면",
+          "meaning": "종이의 면"
+        }
+      ]
+    },
+    {
+      "character": "命",
+      "meaning": "목숨",
+      "sound": "명",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "生命",
+          "reading": "생명",
+          "meaning": "살아 있는 목숨"
+        },
+        {
+          "hanja": "命令",
+          "reading": "명령",
+          "meaning": "시킴"
+        },
+        {
+          "hanja": "運命",
+          "reading": "운명",
+          "meaning": "정해진 목숨"
+        },
+        {
+          "hanja": "寿命",
+          "reading": "수명",
+          "meaning": "목숨의 길이"
+        },
+        {
+          "hanja": "革命",
+          "reading": "혁명",
+          "meaning": "크게 바꿈"
+        }
+      ]
+    },
+    {
+      "character": "文",
+      "meaning": "글월",
+      "sound": "문",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "文化",
+          "reading": "문화",
+          "meaning": "글의 빛남"
+        },
+        {
+          "hanja": "文學",
+          "reading": "문학",
+          "meaning": "글의 배움"
+        },
+        {
+          "hanja": "作文",
+          "reading": "작문",
+          "meaning": "글을 지음"
+        },
+        {
+          "hanja": "古文",
+          "reading": "고문",
+          "meaning": "옛 글"
+        },
+        {
+          "hanja": "文書",
+          "reading": "문서",
+          "meaning": "글과 글"
+        }
+      ]
+    },
+    {
+      "character": "問",
+      "meaning": "물을",
+      "sound": "문",
+      "strokeCount": 11,
+      "words": [
+        {
+          "hanja": "問題",
+          "reading": "문제",
+          "meaning": "물어야 할 것"
+        },
+        {
+          "hanja": "質問",
+          "reading": "질문",
+          "meaning": "물어봄"
+        },
+        {
+          "hanja": "問答",
+          "reading": "문답",
+          "meaning": "물음과 대답"
+        },
+        {
+          "hanja": "訪問",
+          "reading": "방문",
+          "meaning": "찾아 물음"
+        },
+        {
+          "hanja": "疑問",
+          "reading": "의문",
+          "meaning": "의심하는 물음"
+        }
+      ]
+    },
+    {
+      "character": "百",
+      "meaning": "일백",
+      "sound": "백",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "百人",
+          "reading": "백인",
+          "meaning": "백 명의 사람"
+        },
+        {
+          "hanja": "百年",
+          "reading": "백년",
+          "meaning": "백 해"
+        },
+        {
+          "hanja": "百貨",
+          "reading": "백화",
+          "meaning": "나라의 것들"
+        },
+        {
+          "hanja": "百週",
+          "reading": "백주",
+          "meaning": "백 일"
+        },
+        {
+          "hanja": "数百",
+          "reading": "수백",
+          "meaning": "몇 백"
+        }
+      ]
+    },
+    {
+      "character": "夫",
+      "meaning": "지아비",
+      "sound": "부",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "夫人",
+          "reading": "부인",
+          "meaning": "남편의 아내"
+        },
+        {
+          "hanja": "夫妻",
+          "reading": "부처",
+          "meaning": "남편과 아내"
+        },
+        {
+          "hanja": "農夫",
+          "reading": "농부",
+          "meaning": "농사짓는 사람"
+        },
+        {
+          "hanja": "漁夫",
+          "reading": "어부",
+          "meaning": "고기 잡는 사람"
+        },
+        {
+          "hanja": "丈夫",
+          "reading": "장부",
+          "meaning": "사나이"
+        }
+      ]
+    },
+    {
+      "character": "算",
+      "meaning": "셈",
+      "sound": "산",
+      "strokeCount": 14,
+      "words": [
+        {
+          "hanja": "計算",
+          "reading": "계산",
+          "meaning": "셈함"
+        },
+        {
+          "hanja": "算數",
+          "reading": "산수",
+          "meaning": "셈의 수"
+        },
+        {
+          "hanja": "預算",
+          "reading": "예산",
+          "meaning": "미리 셈함"
+        },
+        {
+          "hanja": "決算",
+          "reading": "결산",
+          "meaning": "마무리 셈"
+        },
+        {
+          "hanja": "打算",
+          "reading": "타산",
+          "meaning": "셈함"
+        }
+      ]
+    },
+    {
+      "character": "色",
+      "meaning": "빛",
+      "sound": "색",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "白色",
+          "reading": "백색",
+          "meaning": "흰색"
+        },
+        {
+          "hanja": "赤色",
+          "reading": "적색",
+          "meaning": "붉은색"
+        },
+        {
+          "hanja": "靑色",
+          "reading": "청색",
+          "meaning": "푸른색"
+        },
+        {
+          "hanja": "金色",
+          "reading": "금색",
+          "meaning": "금빛"
+        },
+        {
+          "hanja": "色紙",
+          "reading": "색지",
+          "meaning": "색이 있는 종이"
+        }
+      ]
+    },
+    {
+      "character": "夕",
+      "meaning": "저녁",
+      "sound": "석",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "朝夕",
+          "reading": "조석",
+          "meaning": "아침과 저녁"
+        },
+        {
+          "hanja": "夕日",
+          "reading": "석일",
+          "meaning": "저녁 해"
+        },
+        {
+          "hanja": "夕食",
+          "reading": "석식",
+          "meaning": "저녁 밥"
+        },
+        {
+          "hanja": "夕方",
+          "reading": "석방",
+          "meaning": "저녁 무렵"
+        },
+        {
+          "hanja": "除夕",
+          "reading": "제석",
+          "meaning": "한 해 마지막 저녁"
+        }
+      ]
+    },
+    {
+      "character": "少",
+      "meaning": "적을",
+      "sound": "소",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "少年",
+          "reading": "소년",
+          "meaning": "어린 남자"
+        },
+        {
+          "hanja": "少女",
+          "reading": "소녀",
+          "meaning": "어린 여자"
+        },
+        {
+          "hanja": "少數",
+          "reading": "소수",
+          "meaning": "적은 수"
+        },
+        {
+          "hanja": "多少",
+          "reading": "다소",
+          "meaning": "많고 적음"
+        },
+        {
+          "hanja": "老少",
+          "reading": "노소",
+          "meaning": "늙은이와 젊은이"
+        }
+      ]
+    },
+    {
+      "character": "所",
+      "meaning": "바",
+      "sound": "소",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "所有",
+          "reading": "소유",
+          "meaning": "가지고 있음"
+        },
+        {
+          "hanja": "場所",
+          "reading": "장소",
+          "meaning": "마당과 곳"
+        },
+        {
+          "hanja": "住所",
+          "reading": "주소",
+          "meaning": "사는 곳"
+        },
+        {
+          "hanja": "近所",
+          "reading": "근소",
+          "meaning": "가까운 곳"
+        },
+        {
+          "hanja": "名所",
+          "reading": "명소",
+          "meaning": "이름난 곳"
+        }
+      ]
+    },
+    {
+      "character": "數",
+      "meaning": "셈",
+      "sound": "수",
+      "strokeCount": 15,
+      "words": [
+        {
+          "hanja": "數學",
+          "reading": "수학",
+          "meaning": "셈의 배움"
+        },
+        {
+          "hanja": "人數",
+          "reading": "인수",
+          "meaning": "사람의 수"
+        },
+        {
+          "hanja": "少數",
+          "reading": "소수",
+          "meaning": "적은 수"
+        },
+        {
+          "hanja": "多數",
+          "reading": "다수",
+          "meaning": "많은 수"
+        },
+        {
+          "hanja": "数百",
+          "reading": "수백",
+          "meaning": "몇 백"
+        }
+      ]
+    },
+    {
+      "character": "植",
+      "meaning": "심을",
+      "sound": "식",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "植物",
+          "reading": "식물",
+          "meaning": "심은 것"
+        },
+        {
+          "hanja": "植木",
+          "reading": "식목",
+          "meaning": "나무 심기"
+        },
+        {
+          "hanja": "植民",
+          "reading": "식민",
+          "meaning": "심어 둔 백성"
+        },
+        {
+          "hanja": "植樹",
+          "reading": "식수",
+          "meaning": "나무 심음"
+        },
+        {
+          "hanja": "移植",
+          "reading": "이식",
+          "meaning": "옮겨 심음"
+        }
+      ]
+    },
+    {
+      "character": "心",
+      "meaning": "마음",
+      "sound": "심",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "心理",
+          "reading": "심리",
+          "meaning": "마음의 이치"
+        },
+        {
+          "hanja": "安心",
+          "reading": "안심",
+          "meaning": "마음이 편함"
+        },
+        {
+          "hanja": "決心",
+          "reading": "결심",
+          "meaning": "마음을 정함"
+        },
+        {
+          "hanja": "關心",
+          "reading": "관심",
+          "meaning": "마음을 기울임"
+        },
+        {
+          "hanja": "心臟",
+          "reading": "심장",
+          "meaning": "마음의 장기"
+        }
+      ]
+    },
+    {
+      "character": "語",
+      "meaning": "말",
+      "sound": "어",
+      "strokeCount": 14,
+      "words": [
+        {
+          "hanja": "言語",
+          "reading": "언어",
+          "meaning": "말"
+        },
+        {
+          "hanja": "國語",
+          "reading": "국어",
+          "meaning": "나라의 말"
+        },
+        {
+          "hanja": "英語",
+          "reading": "영어",
+          "meaning": "영국의 말"
+        },
+        {
+          "hanja": "語學",
+          "reading": "어학",
+          "meaning": "말의 배움"
+        },
+        {
+          "hanja": "會話",
+          "reading": "회화",
+          "meaning": "모여서 말함"
+        }
+      ]
+    },
+    {
+      "character": "然",
+      "meaning": "그럴",
+      "sound": "연",
+      "strokeCount": 12,
+      "words": [
+        {
+          "hanja": "自然",
+          "reading": "자연",
+          "meaning": "스스로 그러함"
+        },
+        {
+          "hanja": "當然",
+          "reading": "당연",
+          "meaning": "마땅히 그러함"
+        },
+        {
+          "hanja": "突然",
+          "reading": "돌연",
+          "meaning": "갑자기 그럼"
+        },
+        {
+          "hanja": "偶然",
+          "reading": "우연",
+          "meaning": "우연히 그럼"
+        },
+        {
+          "hanja": "必然",
+          "reading": "필연",
+          "meaning": "반드시 그럼"
+        }
+      ]
+    },
+    {
+      "character": "有",
+      "meaning": "있을",
+      "sound": "유",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "所有",
+          "reading": "소유",
+          "meaning": "가지고 있음"
+        },
+        {
+          "hanja": "有用",
+          "reading": "유용",
+          "meaning": "쓰임이 있음"
+        },
+        {
+          "hanja": "有名",
+          "reading": "유명",
+          "meaning": "이름이 있음"
+        },
+        {
+          "hanja": "保有",
+          "reading": "보유",
+          "meaning": "가지고 있음"
+        },
+        {
+          "hanja": "有限",
+          "reading": "유한",
+          "meaning": "한이 있음"
+        }
+      ]
+    },
+    {
+      "character": "育",
+      "meaning": "기를",
+      "sound": "육",
+      "strokeCount": 8,
+      "words": [
+        {
+          "hanja": "教育",
+          "reading": "교육",
+          "meaning": "가르쳐 기름"
+        },
+        {
+          "hanja": "體育",
+          "reading": "체육",
+          "meaning": "몸을 기름"
+        },
+        {
+          "hanja": "育兒",
+          "reading": "육아",
+          "meaning": "아이를 기름"
+        },
+        {
+          "hanja": "育成",
+          "reading": "육성",
+          "meaning": "기르어 이룸"
+        },
+        {
+          "hanja": "發育",
+          "reading": "발육",
+          "meaning": "펼쳐 기름"
+        }
+      ]
+    },
+    {
+      "character": "邑",
+      "meaning": "고을",
+      "sound": "읍",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "都邑",
+          "reading": "도읍",
+          "meaning": "나라의 고을"
+        },
+        {
+          "hanja": "村邑",
+          "reading": "촌읍",
+          "meaning": "마을 고을"
+        },
+        {
+          "hanja": "邑內",
+          "reading": "읍내",
+          "meaning": "고을 안"
+        },
+        {
+          "hanja": "城邑",
+          "reading": "성읍",
+          "meaning": "성 안의 고을"
+        },
+        {
+          "hanja": "邑人",
+          "reading": "읍인",
+          "meaning": "고을 사람"
+        }
+      ]
+    },
+    {
+      "character": "入",
+      "meaning": "들",
+      "sound": "입",
+      "strokeCount": 2,
+      "words": [
+        {
+          "hanja": "入口",
+          "reading": "입구",
+          "meaning": "들어가는 구멍"
+        },
+        {
+          "hanja": "入学",
+          "reading": "입학",
+          "meaning": "배움에 들어감"
+        },
+        {
+          "hanja": "收入",
+          "reading": "수입",
+          "meaning": "받아 들어옴"
+        },
+        {
+          "hanja": "加入",
+          "reading": "가입",
+          "meaning": "더해 들어감"
+        },
+        {
+          "hanja": "輸入",
+          "reading": "수입",
+          "meaning": "가져와 들임"
+        }
+      ]
+    },
+    {
+      "character": "字",
+      "meaning": "글자",
+      "sound": "자",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "漢字",
+          "reading": "한자",
+          "meaning": "한나라 글자"
+        },
+        {
+          "hanja": "文字",
+          "reading": "문자",
+          "meaning": "글월과 글자"
+        },
+        {
+          "hanja": "數字",
+          "reading": "숫자",
+          "meaning": "셈의 글자"
+        },
+        {
+          "hanja": "名字",
+          "reading": "명자",
+          "meaning": "이름 글자"
+        },
+        {
+          "hanja": "字義",
+          "reading": "자의",
+          "meaning": "글자의 뜻"
+        }
+      ]
+    },
+    {
+      "character": "祖",
+      "meaning": "할아비",
+      "sound": "조",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "祖父",
+          "reading": "조부",
+          "meaning": "할아버지"
+        },
+        {
+          "hanja": "祖先",
+          "reading": "조선",
+          "meaning": "할아비가 먼저"
+        },
+        {
+          "hanja": "祖國",
+          "reading": "조국",
+          "meaning": "할아비 나라"
+        },
+        {
+          "hanja": "祖父母",
+          "reading": "조부모",
+          "meaning": "할아버지와 할머니"
+        },
+        {
+          "hanja": "始祖",
+          "reading": "시조",
+          "meaning": "처음 할아비"
+        }
+      ]
+    },
+    {
+      "character": "住",
+      "meaning": "살",
+      "sound": "주",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "住所",
+          "reading": "주소",
+          "meaning": "사는 곳"
+        },
+        {
+          "hanja": "居住",
+          "reading": "거주",
+          "meaning": "살아 있음"
+        },
+        {
+          "hanja": "住宅",
+          "reading": "주택",
+          "meaning": "사는 집"
+        },
+        {
+          "hanja": "住居",
+          "reading": "주거",
+          "meaning": "살아 머묾"
+        },
+        {
+          "hanja": "永住",
+          "reading": "영주",
+          "meaning": "오래 살음"
+        }
+      ]
+    },
+    {
+      "character": "主",
+      "meaning": "임금",
+      "sound": "주",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "主人",
+          "reading": "주인",
+          "meaning": "임금이 되는 사람"
+        },
+        {
+          "hanja": "主役",
+          "reading": "주역",
+          "meaning": "주된 역할"
+        },
+        {
+          "hanja": "主要",
+          "reading": "주요",
+          "meaning": "주로 요됨"
+        },
+        {
+          "hanja": "民主",
+          "reading": "민주",
+          "meaning": "백성이 주인"
+        },
+        {
+          "hanja": "主體",
+          "reading": "주체",
+          "meaning": "임금이 되는 몸"
+        }
+      ]
+    },
+    {
+      "character": "重",
+      "meaning": "무거울",
+      "sound": "중",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "重要",
+          "reading": "중요",
+          "meaning": "무겁게 여김"
+        },
+        {
+          "hanja": "嚴重",
+          "reading": "엄중",
+          "meaning": "엄하고 무거움"
+        },
+        {
+          "hanja": "重心",
+          "reading": "중심",
+          "meaning": "무거운 마음"
+        },
+        {
+          "hanja": "尊重",
+          "reading": "존중",
+          "meaning": "높이 여김"
+        },
+        {
+          "hanja": "重複",
+          "reading": "중복",
+          "meaning": "겹쳐 무거움"
+        }
+      ]
+    },
+    {
+      "character": "紙",
+      "meaning": "종이",
+      "sound": "지",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "紙幣",
+          "reading": "지폐",
+          "meaning": "종이 돈"
+        },
+        {
+          "hanja": "用紙",
+          "reading": "용지",
+          "meaning": "쓸 종이"
+        },
+        {
+          "hanja": "白紙",
+          "reading": "백지",
+          "meaning": "흰 종이"
+        },
+        {
+          "hanja": "紙面",
+          "reading": "지면",
+          "meaning": "종이의 면"
+        },
+        {
+          "hanja": "韓紙",
+          "reading": "한지",
+          "meaning": "한나라 종이"
+        }
+      ]
+    },
+    {
+      "character": "地",
+      "meaning": "땅",
+      "sound": "지",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "土地",
+          "reading": "토지",
+          "meaning": "흙의 땅"
+        },
+        {
+          "hanja": "地下",
+          "reading": "지하",
+          "meaning": "땅 아래"
+        },
+        {
+          "hanja": "地面",
+          "reading": "지면",
+          "meaning": "땅의 겉"
+        },
+        {
+          "hanja": "地方",
+          "reading": "지방",
+          "meaning": "땅의 방"
+        },
+        {
+          "hanja": "大地",
+          "reading": "대지",
+          "meaning": "큰 땅"
+        }
+      ]
+    },
+    {
+      "character": "千",
+      "meaning": "일천",
+      "sound": "천",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "千石",
+          "reading": "천석",
+          "meaning": "천 개의 돌"
+        },
+        {
+          "hanja": "千日",
+          "reading": "천일",
+          "meaning": "천 날"
+        },
+        {
+          "hanja": "千本",
+          "reading": "천본",
+          "meaning": "천 개"
+        },
+        {
+          "hanja": "千里",
+          "reading": "천리",
+          "meaning": "천 리"
+        },
+        {
+          "hanja": "数千",
+          "reading": "수천",
+          "meaning": "몇 천"
+        }
+      ]
+    },
+    {
+      "character": "天",
+      "meaning": "하늘",
+      "sound": "천",
+      "strokeCount": 4,
+      "words": [
+        {
+          "hanja": "天氣",
+          "reading": "천기",
+          "meaning": "하늘의 기운"
+        },
+        {
+          "hanja": "天國",
+          "reading": "천국",
+          "meaning": "하늘 나라"
+        },
+        {
+          "hanja": "天日",
+          "reading": "천일",
+          "meaning": "하늘의 해"
+        },
+        {
+          "hanja": "今天",
+          "reading": "금천",
+          "meaning": "오늘 하늘"
+        },
+        {
+          "hanja": "天災",
+          "reading": "천재",
+          "meaning": "하늘의 재앙"
+        }
+      ]
+    },
+    {
+      "character": "川",
+      "meaning": "내",
+      "sound": "천",
+      "strokeCount": 3,
+      "words": [
+        {
+          "hanja": "川口",
+          "reading": "천구",
+          "meaning": "내 어귀"
+        },
+        {
+          "hanja": "川岸",
+          "reading": "천안",
+          "meaning": "내 언덕"
+        },
+        {
+          "hanja": "山川",
+          "reading": "산천",
+          "meaning": "산과 내"
+        },
+        {
+          "hanja": "河川",
+          "reading": "하천",
+          "meaning": "강과 내"
+        },
+        {
+          "hanja": "川流",
+          "reading": "천류",
+          "meaning": "내의 흐름"
+        }
+      ]
+    },
+    {
+      "character": "草",
+      "meaning": "풀",
+      "sound": "초",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "草木",
+          "reading": "초목",
+          "meaning": "풀과 나무"
+        },
+        {
+          "hanja": "草花",
+          "reading": "초화",
+          "meaning": "풀꽃"
+        },
+        {
+          "hanja": "草原",
+          "reading": "초원",
+          "meaning": "풀의 들"
+        },
+        {
+          "hanja": "草地",
+          "reading": "초지",
+          "meaning": "풀의 땅"
+        },
+        {
+          "hanja": "草書",
+          "reading": "초서",
+          "meaning": "풀같이 쓴 글씨"
+        }
+      ]
+    },
+    {
+      "character": "村",
+      "meaning": "마을",
+      "sound": "촌",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "農村",
+          "reading": "농촌",
+          "meaning": "농사짓는 마을"
+        },
+        {
+          "hanja": "村里",
+          "reading": "촌리",
+          "meaning": "마을"
+        },
+        {
+          "hanja": "村落",
+          "reading": "촌락",
+          "meaning": "마을이 내려앉음"
+        },
+        {
+          "hanja": "村長",
+          "reading": "촌장",
+          "meaning": "마을의 으뜸"
+        },
+        {
+          "hanja": "新村",
+          "reading": "신촌",
+          "meaning": "새 마을"
+        }
+      ]
+    },
+    {
+      "character": "秋",
+      "meaning": "가을",
+      "sound": "추",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "秋天",
+          "reading": "추천",
+          "meaning": "가을 하늘"
+        },
+        {
+          "hanja": "秋收",
+          "reading": "추수",
+          "meaning": "가을 거둠"
+        },
+        {
+          "hanja": "春秋",
+          "reading": "춘추",
+          "meaning": "봄과 가을"
+        },
+        {
+          "hanja": "秋節",
+          "reading": "추절",
+          "meaning": "가을 절기"
+        },
+        {
+          "hanja": "初秋",
+          "reading": "초추",
+          "meaning": "이른 가을"
+        }
+      ]
+    },
+    {
+      "character": "春",
+      "meaning": "봄",
+      "sound": "춘",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "春風",
+          "reading": "춘풍",
+          "meaning": "봄바람"
+        },
+        {
+          "hanja": "青春",
+          "reading": "청춘",
+          "meaning": "푸른 봄"
+        },
+        {
+          "hanja": "春秋",
+          "reading": "춘추",
+          "meaning": "봄과 가을"
+        },
+        {
+          "hanja": "春節",
+          "reading": "춘절",
+          "meaning": "봄 절기"
+        },
+        {
+          "hanja": "初春",
+          "reading": "초춘",
+          "meaning": "이른 봄"
+        }
+      ]
+    },
+    {
+      "character": "出",
+      "meaning": "날",
+      "sound": "출",
+      "strokeCount": 5,
+      "words": [
+        {
+          "hanja": "出口",
+          "reading": "출구",
+          "meaning": "나가는 구멍"
+        },
+        {
+          "hanja": "出發",
+          "reading": "출발",
+          "meaning": "나와 떠남"
+        },
+        {
+          "hanja": "出生",
+          "reading": "출생",
+          "meaning": "나와 태어남"
+        },
+        {
+          "hanja": "外出",
+          "reading": "외출",
+          "meaning": "밖으로 나감"
+        },
+        {
+          "hanja": "輸出",
+          "reading": "수출",
+          "meaning": "내보냄"
+        }
+      ]
+    },
+    {
+      "character": "便",
+      "meaning": "편할",
+      "sound": "편",
+      "strokeCount": 9,
+      "words": [
+        {
+          "hanja": "便利",
+          "reading": "편리",
+          "meaning": "편하고 이로움"
+        },
+        {
+          "hanja": "便所",
+          "reading": "변소",
+          "meaning": "편한 곳"
+        },
+        {
+          "hanja": "便宜",
+          "reading": "편의",
+          "meaning": "편한 이익"
+        },
+        {
+          "hanja": "大便",
+          "reading": "대변",
+          "meaning": "큰 변"
+        },
+        {
+          "hanja": "不便",
+          "reading": "불편",
+          "meaning": "편하지 않음"
+        }
+      ]
+    },
+    {
+      "character": "夏",
+      "meaning": "여름",
+      "sound": "하",
+      "strokeCount": 10,
+      "words": [
+        {
+          "hanja": "夏季",
+          "reading": "하계",
+          "meaning": "여름철"
+        },
+        {
+          "hanja": "春夏",
+          "reading": "춘하",
+          "meaning": "봄과 여름"
+        },
+        {
+          "hanja": "夏至",
+          "reading": "하지",
+          "meaning": "여름 절기"
+        },
+        {
+          "hanja": "盛夏",
+          "reading": "성하",
+          "meaning": "한여름"
+        },
+        {
+          "hanja": "初夏",
+          "reading": "초하",
+          "meaning": "이른 여름"
+        }
+      ]
+    },
+    {
+      "character": "花",
+      "meaning": "꽃",
+      "sound": "화",
+      "strokeCount": 7,
+      "words": [
+        {
+          "hanja": "花園",
+          "reading": "화원",
+          "meaning": "꽃밭"
+        },
+        {
+          "hanja": "花草",
+          "reading": "화초",
+          "meaning": "꽃과 풀"
+        },
+        {
+          "hanja": "野花",
+          "reading": "야화",
+          "meaning": "들꽃"
+        },
+        {
+          "hanja": "國花",
+          "reading": "국화",
+          "meaning": "나라의 꽃"
+        },
+        {
+          "hanja": "花火",
+          "reading": "화화",
+          "meaning": "불꽃"
+        }
+      ]
+    },
+    {
+      "character": "休",
+      "meaning": "쉴",
+      "sound": "휴",
+      "strokeCount": 6,
+      "words": [
+        {
+          "hanja": "休日",
+          "reading": "휴일",
+          "meaning": "쉬는 날"
+        },
+        {
+          "hanja": "休息",
+          "reading": "휴식",
+          "meaning": "쉼"
+        },
+        {
+          "hanja": "休學",
+          "reading": "휴학",
+          "meaning": "배움을 쉼"
+        },
+        {
+          "hanja": "休業",
+          "reading": "휴업",
+          "meaning": "일을 쉼"
+        },
+        {
+          "hanja": "午休",
+          "reading": "오휴",
+          "meaning": "낮에 쉼"
+        }
+      ]
+    }
+  ],
+  "categories": {
+    "숫자": [
+      2,
+      11,
+      12,
+      20,
+      22,
+      29,
+      30,
+      34,
+      36,
+      43,
+      45,
+      115,
+      138
+    ],
+    "자연": [
+      5,
+      14,
+      21,
+      27,
+      33,
+      37,
+      44,
+      49,
+      52,
+      95,
+      105,
+      137,
+      139,
+      140,
+      141,
+      143,
+      144,
+      147,
+      148
+    ],
+    "사람/가족": [
+      7,
+      13,
+      18,
+      35,
+      39,
+      48,
+      58,
+      82,
+      98,
+      132
+    ],
+    "방향/위치": [
+      6,
+      10,
+      19,
+      24,
+      32,
+      40,
+      59,
+      72,
+      81,
+      86,
+      90,
+      93,
+      99
+    ],
+    "학교/학문": [
+      0,
+      1,
+      46,
+      57,
+      113,
+      114,
+      117,
+      122,
+      131
+    ],
+    "생활/일상": [
+      15,
+      28,
+      50,
+      54,
+      60,
+      62,
+      77,
+      78,
+      79,
+      84,
+      85,
+      104,
+      109,
+      133,
+      142,
+      149
+    ],
+    "기타": [
+      3,
+      4,
+      8,
+      9,
+      16,
+      17,
+      23,
+      25,
+      26,
+      31,
+      38,
+      41,
+      42,
+      47,
+      51,
+      53,
+      55,
+      56,
+      61,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      73,
+      74,
+      75,
+      76,
+      80,
+      83,
+      87,
+      88,
+      89,
+      91,
+      92,
+      94,
+      96,
+      97,
+      100,
+      101,
+      102,
+      103,
+      106,
+      107,
+      108,
+      110,
+      111,
+      112,
+      116,
+      118,
+      119,
+      120,
+      121,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      134,
+      135,
+      136,
+      145,
+      146
+    ]
+  }
+}
